@@ -1,0 +1,46 @@
+name: Vigia de literatura — Fable 6 / Fable 6.1 / Dissertação
+ 
+on:
+  schedule:
+    # Toda segunda-feira às 09:00 UTC (06:00 em Goiânia, horário padrão).
+    - cron: '0 9 * * 1'
+  workflow_dispatch: {}  # permite rodar manualmente pelo botão "Run workflow" no GitHub
+ 
+permissions:
+  contents: write  # necessário pra o workflow poder commitar o log atualizado
+ 
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+ 
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+ 
+      - name: Rodar agente — biomecânica de alinhadores
+        run: python3 pubmed_aligner_watch.py
+ 
+      - name: Rodar agente — antiaging / rejuvenescimento
+        run: python3 pubmed_antiaging_watch.py
+ 
+      - name: Rodar agente — propulsão a plasma
+        run: python3 arxiv_plasma_watch.py
+ 
+      - name: Rodar agente — ventoinha dutada / veículo esférico
+        run: python3 arxiv_ductedfan_watch.py
+ 
+      - name: Salvar logs e state atualizados no repositório
+        run: |
+          git config user.name "agente-literatura"
+          git config user.email "actions@users.noreply.github.com"
+          git add log.md state.json \
+                  log_antiaging.md state_antiaging.json \
+                  log_plasma.md state_plasma.json \
+                  log_ductedfan.md state_ductedfan.json
+          git diff --cached --quiet && echo "Nada novo pra commitar." || git commit -m "Rodada semanal de vigia de literatura"
+          git push
+ 
