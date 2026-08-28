@@ -20,6 +20,8 @@ Tarefas do Windows, ou GitHub Actions com schedule + commit do log).
 
 import json
 import os
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -48,15 +50,37 @@ STATE_FILE = os.path.join(HERE, "state_antiaging.json")
 LOG_FILE = os.path.join(HERE, "log_antiaging.md")
 CONTACT_EMAIL = ""
 
+# Chave de API da NCBI (opcional, mas recomendada). Sem ela, a PubMed
+# limita a 3 requisições/segundo por IP — e o IP dos runners do GitHub
+# Actions é compartilhado com muitos outros jobs, então é fácil levar
+# um 429 mesmo fazendo poucas chamadas. Com a chave, o limite sobe pra
+# 10/s. É grátis: NCBI account → Settings → "API Key Management".
+# No GitHub Actions, passe como secret (ex.: NCBI_API_KEY) e leia com
+# os.environ.get("NCBI_API_KEY", "").
+NCBI_API_KEY = os.environ.get("NCBI_API_KEY", "")
+
 
 # ---------------------------------------------------------------------------
 # FUNÇÕES (idênticas em estrutura ao agente de alinhadores)
 # ---------------------------------------------------------------------------
 
-def _get(url, params):
+def _get(url, params, max_retries=5):
+    """GET com retry e espera progressiva em caso de 429/5xx."""
+    if NCBI_API_KEY:
+        params = {**params, "api_key": NCBI_API_KEY}
     qs = urllib.parse.urlencode(params)
-    with urllib.request.urlopen(f"{url}?{qs}", timeout=30) as resp:
-        return resp.read()
+    full_url = f"{url}?{qs}"
+    for attempt in range(max_retries):
+        try:
+            with urllib.request.urlopen(full_url, timeout=30) as resp:
+                return resp.read()
+        except urllib.error.HTTPError as e:
+            if e.code in (429, 500, 502, 503) and attempt < max_retries - 1:
+                wait = 2 ** attempt  # 1, 2, 4, 8, 16 segundos
+                print(f"HTTP {e.code} da PubMed, tentando de novo em {wait}s...")
+                time.sleep(wait)
+                continue
+            raise
 
 
 def load_state():
@@ -165,6 +189,7 @@ def main():
     seen = set(state.get("seen_pmids", []))
 
     pmids = search_pubmed()
+    time.sleep(0.5)  # respiro entre esearch e efetch, evita esbarrar no limite
     new_pmids = [p for p in pmids if p not in seen]
     new_articles = fetch_summaries(new_pmids) if new_pmids else []
 
