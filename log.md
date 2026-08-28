@@ -14,3 +14,7 @@
 - **Impacts of clean-up visualization techniques on excess composite of orthodontic attachments.**
   Doğrugören R, Topsakal KG, Karadaş Bakırhan N et al. — Journal of orofacial orthopedics = Fortschritte der Kieferorthopadie : Organ/official journal Deutsche Gesellschaft fur Kieferorthopadie, 2026
   https://pubmed.ncbi.nlm.nih.gov/42616074/ · DOI: 10.1007/s00056-026-00689-z
+
+## Rodada — 2026-08-28 00:55
+
+Nenhum artigo novo desde a última execução.

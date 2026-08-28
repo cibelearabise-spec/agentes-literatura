@@ -242,3 +242,7 @@
 - **The Effects of Tildrakizumab in the Epigenetic Aging Deviation of Psoriasis: A 52-Week Open-Label Study.**
   Macit B, Benca-Bachman CE, Qureshi A et al. — Journal of the American Academy of Dermatology, 2026
   https://pubmed.ncbi.nlm.nih.gov/42617697/ · DOI: 10.1016/j.jaad.2026.08.051
+
+## Rodada — 2026-08-28 00:55
+
+Nenhum artigo novo desde a última execução.
