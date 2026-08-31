@@ -246,3 +246,47 @@
 ## Rodada — 2026-08-28 00:55
 
 Nenhum artigo novo desde a última execução.
+
+## Rodada — 2026-08-31 09:07
+
+10 artigo(s) novo(s):
+
+- **Living Beyond Our Evolutionary Warranty: Why Non-Communicable Diseases May Be The Inevitable Costs of an Extended Lifespan.**
+  Mposhi A, Uvnas-Moberg K, Turner JD — Ageing research reviews, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42668122/ · DOI: 10.1016/j.arr.2026.103343
+
+- **Associations of biological aging and biological age acceleration with mortality in patients with cardiorenal syndrome: A prospective cohort study.**
+  Yang X, Zhang Y, Zhong Y et al. — The American journal of the medical sciences, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42667983/ · DOI: 10.1016/j.amjms.2026.08.025
+
+- **Identification of Senescence-Associated β-Galactosidase With Single-Molecule Resolution.**
+  Wang G, Chen X, Ge Y et al. — Angewandte Chemie (International ed. in English), 2026
+  https://pubmed.ncbi.nlm.nih.gov/42666007/ · DOI: 10.1002/anie.5443283
+
+- **Senescent cells maintain viability through adhesion-dependent fragmentation that promotes debris deposition.**
+  Durik M, Karout M, Sampaio Gonçalves D et al. — Developmental cell, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42664977/ · DOI: 10.1016/j.devcel.2026.08.002
+
+- **Adipose-cartilage communication via EV-Mito-mtDNA signaling promotes osteoarthritis progression.**
+  Gu C, Liao F, Kong G et al. — Science advances, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42664348/ · DOI: 10.1126/sciadv.aee6780
+
+- **Topical Menaquinone‑7 (Vitamin K2, MK-7) as a Mitochondrial Bioenergetic Activator for Skin Anti-Aging: Mechanistic Evidence in Skin Cells and a Randomized Split-Face/Neck Study.**
+  Huang H, Wei R, Xu C et al. — ACS omega, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42662208/ · DOI: 10.1021/acsomega.6c03314
+
+- **Reallocation of Time Between Sedentary Behavior and Physical Activity In Relation to Biological Aging.**
+  Fan J, Yang Y, Jia X et al. — Journal of aging and physical activity, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42660535/ · DOI: 10.1123/japa.2025-0374
+
+- **Somatic genomic mosaicism in chronic kidney disease progression: A graded appraisal of renal epithelial injury, cellular senescence, and therapeutic implications.**
+  Cao H, Wu Q, Wang Z et al. — Life sciences, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42660417/ · DOI: 10.1016/j.lfs.2026.124658
+
+- **[Expression profile, immunoregulatory function, and clinical prognostic value of CENPN in breast cancer].**
+  Tian R, Ni GF, Fan QD et al. — Zhonghua zhong liu za zhi [Chinese journal of oncology], 2026
+  https://pubmed.ncbi.nlm.nih.gov/42595550/ · DOI: 10.3760/cma.j.cn112152-20250515-00224
+
+- **Transcriptional changes in wild Yukon River Chinook Salmon associated with Ichthyophonus infections.**
+  Bowen L, von Biela VR, Ferguson JA et al. — Journal of aquatic animal health, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42371998/ · DOI: 10.1093/jahafs/vsag007

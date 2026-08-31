@@ -58,3 +58,23 @@
 - **Advances in artificial intelligence and machine learning for toxicity prediction in computational toxicology: a comprehensive review.**
   Shija G — Toxicology mechanisms and methods, 2026
   https://pubmed.ncbi.nlm.nih.gov/42528297/ · DOI: 10.1080/15376516.2026.2712550
+
+## Rodada — 2026-08-31 09:07
+
+4 artigo(s) novo(s):
+
+- **Integrated multi-omics, machine learning, network toxicology, and molecular docking reveal potential mechanisms underlying methyl 4-hydroxybenzoate-associated breast cancer.**
+  Li C, Zeng X, Mao Y — Molecular diversity, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42665765/ · DOI: 10.1007/s11030-026-11712-1
+
+- **Antibiotic Resistance in Helicobacter pylori: Pathogenic Mechanisms and Eradication Barriers.**
+  Kandpal M, Singh S, Shrivastava H et al. — International journal of antimicrobial agents, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42665067/ · DOI: 10.1016/j.ijantimicag.2026.107981
+
+- **Revisiting plant-microbe interaction mechanisms for developing efficient biostimulants.**
+  Chakraborty P, Bose B, Sharma D et al. — Folia microbiologica, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42663807/ · DOI: 10.1007/s12223-026-01575-2
+
+- **Postbiotics derived from Lactobacillus acidophilus exhibit prevention and treatment efficacy against rotavirus-induced diarrhea in neonatal mice.**
+  Yu H, Xu Z, Tan M et al. — Food & function, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42663179/ · DOI: 10.1039/d6fo01994c
