@@ -33,10 +33,10 @@ from datetime import datetime, timezone
 # Cobre: microbioma cutâneo, lipidômica, multi-ômica da pele aplicada a
 # cosmética/formulação, pré/pró/pós-bióticos tópicos.
 QUERY = (
-    '("skin microbiome"[tiab] OR "skin microbiota"[tiab] OR "skin lipidomic*"[tiab] '
-    'OR "skin metabolome"[tiab] OR "multi-omic*"[tiab]) '
+    '(("skin microbiome"[tiab] OR "skin microbiota"[tiab] OR "skin lipidomic*"[tiab] '
+    'OR "skin metabolome"[tiab] OR ("skin"[tiab] AND "multi-omic*"[tiab])) '
     'AND (cosmetic*[tiab] OR formulation[tiab] OR topical[tiab] '
-    'OR prebiotic*[tiab] OR probiotic*[tiab] OR postbiotic*[tiab])'
+    'OR prebiotic*[tiab] OR probiotic*[tiab] OR postbiotic*[tiab]))'
 )
 
 LOOKBACK_DAYS = 8
