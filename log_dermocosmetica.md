@@ -78,3 +78,11 @@
 - **Postbiotics derived from Lactobacillus acidophilus exhibit prevention and treatment efficacy against rotavirus-induced diarrhea in neonatal mice.**
   Yu H, Xu Z, Tan M et al. — Food & function, 2026
   https://pubmed.ncbi.nlm.nih.gov/42663179/ · DOI: 10.1039/d6fo01994c
+
+## Rodada — 2026-09-07 09:15
+
+1 artigo(s) novo(s):
+
+- **Polyamines induce prolonged maintenance of stationary phase turbidity in coagulase-negative Staphylococcus.**
+  Funatsu O, Ishii H, Shimatsu R et al. — The Journal of general and applied microbiology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42108103/ · DOI: 10.2323/jgam.2026.04.002
