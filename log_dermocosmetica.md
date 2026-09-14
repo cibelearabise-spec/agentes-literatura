@@ -86,3 +86,19 @@
 - **Polyamines induce prolonged maintenance of stationary phase turbidity in coagulase-negative Staphylococcus.**
   Funatsu O, Ishii H, Shimatsu R et al. — The Journal of general and applied microbiology, 2026
   https://pubmed.ncbi.nlm.nih.gov/42108103/ · DOI: 10.2323/jgam.2026.04.002
+
+## Rodada — 2026-09-14 09:16
+
+3 artigo(s) novo(s):
+
+- **Chaves thermal spring water formulation: Substantiating anti-ageing and anti-inflammatory effects.**
+  Rocha PE, Faustino M, Pedrosa SS et al. — International journal of cosmetic science, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42717854/ · DOI: 10.1111/ics.70137
+
+- **From bacterial to microbiome-derived vesicles: genome-informed identity, source qualification, and translational quality for skin-directed cosmetics.**
+  Pak H, Park T, Ho MJ — Genes & genomics, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42714753/ · DOI: 10.1007/s13258-026-01803-6
+
+- **Bacteriophages in the treatment of cutaneous infections and skin disorders: therapeutic advances and future directions.**
+  Hauza E, Mutai IJ, Necel A et al. — Clinical microbiology reviews, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42267833/ · DOI: 10.1128/cmr.00048-26

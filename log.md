@@ -82,3 +82,19 @@ Nenhum artigo novo desde a última execução.
 - **Effects of maxillary incisor intrusion with clear aligners under ideal retention: A finite element study using local coordinate systems.**
   Nguyen D, Dang TT, Ho TT et al. — International orthodontics, 2026
   https://pubmed.ncbi.nlm.nih.gov/41734578/ · DOI: 10.1016/j.ortho.2026.101148
+
+## Rodada — 2026-09-14 09:15
+
+3 artigo(s) novo(s):
+
+- **A 41-Month Case Report: Correction of Anterior Open Bite Using Clear Aligners Combined With Long-Arm Uprighting Springs.**
+  Xin Y, Chen Y, Qiu F et al. — Case reports in dentistry, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42719513/ · DOI: 10.1155/crid/2327408
+
+- **Ageing effects on chemical, physical, mechanical, and morphological properties of clear aligners - a systematic review.**
+  Almotairy N, Aleisa F, Alshammari AK — Progress in orthodontics, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42709287/ · DOI: 10.1186/s40510-026-00642-1
+
+- **Clear Aligner Therapy Assisted by Implant Anchorage and S-Shaped Root Control Attachments for Anterior Open Bite Correction: A 30-Month Treatment Case Report.**
+  Chen Y, Xin Y, Liu C et al. — Case reports in dentistry, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42707411/ · DOI: 10.1155/crid/7446066

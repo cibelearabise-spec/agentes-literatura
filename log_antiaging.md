@@ -530,3 +530,207 @@ Nenhum artigo novo desde a última execução.
 - **Enhancing the efficacy of B7-H3-targeting antibody-drug conjugate DS-7300a in TP53-deficient tumors by inducing ferroptosis.**
   Leo J, Chen F, Shi W et al. — Oncogene, 2026
   https://pubmed.ncbi.nlm.nih.gov/42509416/ · DOI: 10.1038/s41388-026-03921-7
+
+## Rodada — 2026-09-14 09:15
+
+50 artigo(s) novo(s):
+
+- **Proteomic signatures of systemic inflammation in aging, multimorbidity, and mortality.**
+  Jiang Z, Ling D, Chen Z et al. — Experimental gerontology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42731645/ · DOI: 10.1016/j.exger.2026.113321
+
+- **Epigenetic clocks and accelerated biological aging in people living with HIV: Emerging mechanisms and clinical implications.**
+  Chan ASW — Experimental gerontology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42731644/ · DOI: 10.1016/j.exger.2026.113323
+
+- **Resveratrol engages SIRT1/AMPK networks to restore BDNF signaling, autophagy, and mitochondrial function in age-related cognitive decline: A geroscience perspective.**
+  Al-Dhahi AS, Al-Kuraishy HM, Fawzy MN et al. — Progress in neuro-psychopharmacology & biological psychiatry, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42731586/ · DOI: 10.1016/j.pnpbp.2026.111925
+
+- **Neutrophil Senescence Induced by Tumor-Derived HMGB1 Promotes Hepatocellular Carcinoma Progression through Neutrophil Extracellular Trap-Mediated Suppression of CD8+ T Cell Immunity.**
+  Duan Y, Yu S, Wang X et al. — Cancer communications (London, England), 2026
+  https://pubmed.ncbi.nlm.nih.gov/42729464/ · DOI: 10.34133/cancomm.0050
+
+- **Mitochondrial homeostasis in musculoskeletal diseases: From pathogenic mechanisms to precision therapies.**
+  Wen P, Bai Y, Yang Z — Pharmacological research, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42727834/ · DOI: 10.1016/j.phrs.2026.108441
+
+- **Regenerative medicine strategies for the treatment of radiation-induced ulcers: Mechanisms, challenges, and future directions.**
+  Pan Z, Ma D — Journal of tissue viability, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42727376/ · DOI: 10.1016/j.jtv.2026.101048
+
+- **Serum GDF15 adds prognostic value to forced vital capacity in fibrotic interstitial lung disease.**
+  Suzuki Y, Yoshimura K, Mori K et al. — Respiratory investigation, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42727311/ · DOI: 10.1016/j.resinv.2026.101510
+
+- **Terpenoids as modulators of autophagy-senescence crosstalk in lung cancer.**
+  Niharika K, Muthuvenugopal N, Das M et al. — Daru : journal of Faculty of Pharmacy, Tehran University of Medical Sciences, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42726380/ · DOI: 10.1007/s40199-026-00634-w
+
+- **Replicative and Air Pollution-Induced Senescence: Telomere Dysfunction, Mitochondrial Stress, and Modulatory Effects of Astragaloside IV in Endothelial and Vascular Smooth Muscle Cells.**
+  Canale P, Forini F, Nicolini G et al. — Cardiovascular toxicology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42726170/ · DOI: 10.1007/s12012-026-10173-0
+
+- **SERPINE1/PAI-1 in Skeletal Degeneration: A Proposed Context-Dependent Framework for Bone Remodeling Regulation.**
+  Liu H, Yao D, Wang Y et al. — Calcified tissue international, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42726129/ · DOI: 10.1007/s00223-026-01598-4
+
+- **[Expression of Concern] Rapamycin‑induced miR‑30a downregulation inhibits senescence of VSMCs by targeting Beclin1.**
+  Tan P, Wang H, Zhan J et al. — International journal of molecular medicine, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42725387/ · DOI: 10.3892/ijmm.2026.5981
+
+- **A breast tissue-specific epigenetic clock provides accurate chronological age predictions and reveals de-correlation of age and DNA methylation in tumor-adjacent and tumor samples.**
+  Garma LD, Pernas S, Fullana B et al. — Epigenetics, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42723438/ · DOI: 10.1080/15592294.2026.2714582
+
+- **Clinical translation of senescence-related pan-cancer multi-omics: tools for assessment and immunotherapy prediction.**
+  Gao X, Zhou XJ — Cancer gene therapy, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42722723/ · DOI: 10.1038/s41417-026-01080-1
+
+- **Immunosenescence, inflammaging, and metabolic disease: A geroscience perspective on mechanisms and links.**
+  Ye Z, Yu L, Li Z et al. — Experimental gerontology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42722211/ · DOI: 10.1016/j.exger.2026.113320
+
+- **Tumor Loss of the Y Chromosome Defines a Biological Phenotype Associated with Resistance to Radiotherapy Across Cancer Types.**
+  Bourbonne V, Hanna GG, Park HS et al. — International journal of radiation oncology, biology, physics, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42722205/ · DOI: 10.1016/j.ijrobp.2026.08.076
+
+- **Blocking PD-L2 prevents senescent cell accumulation and age-related dysfunction.**
+  Chaib S, Langhi Prata LGP, Suda M et al. — Cell metabolism, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42721966/ · DOI: 10.1016/j.cmet.2026.08.014
+
+- **Surgical exposure and biological aging: A population-based study from the UK Biobank.**
+  Duan W, Li MJ, Gu HW et al. — Journal of clinical anesthesia, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42721535/ · DOI: 10.1016/j.jclinane.2026.112319
+
+- **Pomegranate peel extract bilophytosome protects against UVB- induced skin photoaging through pleiotropic modulation of inflammation, mitophagy, senescence, and metalloproteinases.**
+  Refai H, Elhabak M, Hassan DH et al. — Journal of photochemistry and photobiology. B, Biology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42721501/ · DOI: 10.1016/j.jphotobiol.2026.113562
+
+- **From clinical to synchrotron irradiations: boosting brain cancer treatment though a synergistic combination of TMZ and BrUdR with radiation.**
+  Hollis C, Khochaiche A, Valceski M et al. — International journal of radiation biology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42720999/ · DOI: 10.1080/09553002.2026.2728690
+
+- **Vascular Immunometabolism in Atherosclerosis: Emerging Roles of Glycometabolic Reprogramming in Immune and Vascular Cells.**
+  Li H, Song A, Zhang J et al. — Cardiovascular drugs and therapy, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42720722/ · DOI: 10.1007/s10557-026-07956-6
+
+- **Galectin-1 Signaling Dysregulation Impairs Stromal Senescence and Decidualization in Recurrent Implantation Failure.**
+  Huang X, Lin Z, Chen M et al. — Biology of reproduction, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42720313/ · DOI: 10.1093/biolre/ioag194
+
+- **Hypoxia-inducible factor-1a (HIF1a) as a context-dependent integrator of metabolic stress in skeletal muscle.**
+  Welch N, Kannan P, Pothabathula SV et al. — The Journal of physiology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42717688/ · DOI: 10.1113/JP291159
+
+- **MicroRNA-322 promotes granulosa cell senescence and premature ovarian failure by suppressing Klotho expression and cell cycle progression.**
+  Cui Z, Lai Y, Chen X et al. — Mechanisms of ageing and development, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42716314/ · DOI: 10.1016/j.mad.2026.112250
+
+- **Epigenetic aging and autosomal methylation remodeling in Anderson-Fabry disease.**
+  Aceto MA, Paparazzo E, Antonucci G et al. — Experimental gerontology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42716235/ · DOI: 10.1016/j.exger.2026.113318
+
+- **Aging-related IgG accumulation promotes skin inflammation.**
+  Suzuki T, Horiguchi H, Yamamura S et al. — The Journal of investigative dermatology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42716206/ · DOI: 10.1016/j.jid.2026.08.015
+
+- **A Hippo-thesis: Can bacteria turn back reproductive time?**
+  Mitchell CM — Cell host & microbe, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42716003/ · DOI: 10.1016/j.chom.2026.08.012
+
+- **Efficacy and Safety of Small-Spot 755 nm Picosecond Laser-Induced Optical Breakdown for Novel Photomechanical Skin Ablation in Asian Patients.**
+  Chai NW, Liao WC, Chang CC et al. — Lasers in surgery and medicine, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42714126/ · DOI: 10.1002/lsm.70205
+
+- **HIF1A+CSF3R+ neutrophils-dominated hypoxic niche induced metabolic reprogramming for neoadjuvant therapy resistance in NSCLC.**
+  Zhou Y, Liu Z, Kaysar P et al. — Journal for immunotherapy of cancer, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42711068/ · DOI: 10.1136/jitc-2026-014772
+
+- **Senotherapeutic Potential of Anti-Diabetic Medications: Bridging Type 2 Diabetes and Accelerated Aging.**
+  Cui H, Nisar A, Duan Z et al. — Pharmacological research, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42710703/ · DOI: 10.1016/j.phrs.2026.108443
+
+- **Sickle cell disease and hematopoietic stem cell transplantation: donor expansion, gene-modified grafts and prenatal horizons.**
+  Mackina G, Shangaris P — Current opinion in hematology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42710047/ · DOI: 10.1097/MOH.0000000000000955
+
+- **LAPTM5 correlates with RPE senescence and subretinal fibrosis through the LAPTM5-WWP2-OPTN mitophagy cascade and cGAS/STING activation in a D-galactose-induced aging model.**
+  Yang X, Zhang S, Wang Y et al. — GeroScience, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42709378/ · DOI: 10.1007/s11357-026-02506-2
+
+- **Nanoplastics as disruptors of microtubule dynamics and intracellular trafficking: implications for cellular senescence and ageing.**
+  Li Y, Zhu S, Chen S et al. — Molecular and cellular biochemistry, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42709331/ · DOI: 10.1007/s11010-026-05729-1
+
+- **Genotoxicity threshold for methyl methacrylate in Chinese workers: a novel multi-endpoint genotoxicity assessment incorporating biological aging.**
+  You X, Xu W, Sun Y et al. — Archives of toxicology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42709188/ · DOI: 10.1007/s00204-026-04539-0
+
+- **Clinical guidance on evaluation and management of bone fragility in patients with monoclonal gammopathy of undetermined significance (MGUS): an IOF position statement.**
+  Confavreux CB, Bouvard B, Blank R et al. — Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42709184/ · DOI: 10.1007/s00198-026-08178-0
+
+- **Ergothioneine: Biosynthesis, Molecular Mechanisms, Physiological Function, and Role in Disease.**
+  Yi G, Yao D, Dong C et al. — MedComm, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42707330/ · DOI: 10.1002/mco2.70947
+
+- **Integration of proteomic aging clocks in a phase 2a clinical trial supports simultaneous geroprotective assessment.**
+  Zhavoronkov A, Galkin F, Chen S et al. — Nature biotechnology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42706338/ · DOI: 10.1038/s41587-026-03286-y
+
+- **[Is osteoarthritis merely a local "wear and tear" or a systemic disease? :exploration of the pathogenesis and therapeutic strategies for osteoarthritis].**
+  Lin N, Huang SQ, Ding CH — Zhonghua yi xue za zhi, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42706131/ · DOI: 10.3760/cma.j.cn112137-20260414-01011
+
+- **Athero-oncology: Vascular smooth muscle cell tumor-like transformation in atherosclerosis and therapeutic opportunities.**
+  Wang X, Zhang M, Meng C et al. — Ageing research reviews, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42705482/ · DOI: 10.1016/j.arr.2026.103362
+
+- **Attenuating monocytic inflammaging via the miR-146a/TLR4 axis: Characterization and bioactivity of a triterpenoid-rich callus phytocomplex.**
+  Cerioni L, Tiboni M, Pappagallo N et al. — Mechanisms of ageing and development, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42705471/ · DOI: 10.1016/j.mad.2026.112251
+
+- **Osteocyte lacunar and cellular characteristics in the subchondral bone plate and trabecular bone of human knee osteoarthritis.**
+  Huynh K, Findlay DM, Labrinidis A et al. — Bone, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42705402/ · DOI: 10.1016/j.bone.2026.118079
+
+- **Clinical Efficacy and Histologic Correlation of a High-Powered 675-nm Non-Ablative Diode Laser for Facial Rejuvenation.**
+  Jang YJ, Choi WJ, Kim S et al. — Lasers in surgery and medicine, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42704699/ · DOI: 10.1002/lsm.70204
+
+- **DHCR24 regulates endothelial senescence through the SPHK2/SPNS2-S1P axis.**
+  Liang W, Yan J, Li H et al. — Biogerontology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42704384/ · DOI: 10.1007/s10522-026-10505-1
+
+- **Cracks in the barrier: The hidden cost of over-relying on HaCaT cells.**
+  Marta TA, Dreesen O — The Journal of investigative dermatology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42704324/ · DOI: 10.1016/j.jid.2026.06.1289
+
+- **Does age have an impact on surgical and oncologic outcomes after curative resection for gastric cancer: a ten-year single-centre retrospective study.**
+  Horvat M, Potrc S, Arslani N — Radiology and oncology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42704037/ · DOI: 10.2478/raon-2026-0044
+
+- **Vascular smooth muscle cell-derived osteoprotegerin drives pulmonary arterial hypertension via AKT activation and is attenuated by monoclonal antibody therapy.**
+  Keles M, West LE, Arnold ND et al. — Cardiovascular research, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42702807/ · DOI: 10.1093/cvr/cvag197
+
+- **Senescence-associated mitochondrial dysfunction as a therapeutic target in ovarian cancer: Challenges and opportunities.**
+  Khalili HS, Abadi B, Rezaei N — European journal of pharmacology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42594984/ · DOI: 10.1016/j.ejphar.2026.179250
+
+- **Lactobacillus gasseri postbiotics ameliorate age-related decline in endometrial receptivity.**
+  Li M, Li S, Zheng D et al. — Cell host & microbe, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42561959/ · DOI: 10.1016/j.chom.2026.06.018
+
+- **Hairyvein agrimony-derived nanovesicles in microneedles eradicate intracellular bacteria and reverse senescence to heal diabetic foot osteomyelitis.**
+  Yang Y, Li X, Cui C et al. — Journal of controlled release : official journal of the Controlled Release Society, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42442547/ · DOI: 10.1016/j.jconrel.2026.115175
+
+- **Generation of an immortalized human hair follicle keratinocyte cell line retaining trichogenic potential.**
+  Bak SS, Kim J, Sung YK — Biochemical and biophysical research communications, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42435630/ · DOI: 10.1016/j.bbrc.2026.154264
+
+- **Mitochondrial transplantation reverses the senescence phenotype of SH-SY5Y cells.**
+  Xu L, Wu Y, Wu W et al. — Molecular therapy. Advances, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42422764/ · DOI: 10.1016/j.omta.2026.201788
