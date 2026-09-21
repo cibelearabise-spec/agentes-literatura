@@ -102,3 +102,23 @@
 - **Bacteriophages in the treatment of cutaneous infections and skin disorders: therapeutic advances and future directions.**
   Hauza E, Mutai IJ, Necel A et al. — Clinical microbiology reviews, 2026
   https://pubmed.ncbi.nlm.nih.gov/42267833/ · DOI: 10.1128/cmr.00048-26
+
+## Rodada — 2026-09-21 09:14
+
+4 artigo(s) novo(s):
+
+- **Skin commensals shape the clock-ferroptosis axis to preserve barrier function in psoriasis.**
+  Lin Z, Li C, Jin C et al. — Cell reports, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42758591/ · DOI: 10.1016/j.celrep.2026.118012
+
+- **Weissella paramesenteroides M4: Optimization of bioprocesses, antioxidant property, and a potentially probiotic strain with in vitro activity against Cutibacterium acnes.**
+  Colares HC, Silva TNL, Tarabal VS et al. — Folia microbiologica, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42752812/ · DOI: 10.1007/s12223-026-01585-0
+
+- **Probiotic cells-encapsulated electrospun scaffolds accelerate diabetic wound healingviasynergistic anti-infection activity and skin microbiome modulation.**
+  Hu L, Mu X, Guo Q et al. — Colloids and surfaces. B, Biointerfaces, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42748616/ · DOI: 10.1016/j.colsurfb.2026.116188
+
+- **Glycosidic linkage-dependent fermentation of polysaccharide mixtures by human gut microbiota in vitro.**
+  Silva SP, González A, Roupar D et al. — Carbohydrate polymers, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42493079/ · DOI: 10.1016/j.carbpol.2026.125497

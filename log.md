@@ -98,3 +98,11 @@ Nenhum artigo novo desde a última execução.
 - **Clear Aligner Therapy Assisted by Implant Anchorage and S-Shaped Root Control Attachments for Anterior Open Bite Correction: A 30-Month Treatment Case Report.**
   Chen Y, Xin Y, Liu C et al. — Case reports in dentistry, 2026
   https://pubmed.ncbi.nlm.nih.gov/42707411/ · DOI: 10.1155/crid/7446066
+
+## Rodada — 2026-09-21 09:14
+
+1 artigo(s) novo(s):
+
+- **Comparative analysis of experimental torque behavior and physicochemical properties of commercial and in‑house orthodontic aligners.**
+  Holderbaum G, Beatrici A, Takamori ER et al. — Journal of the World federation of orthodontists, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42744724/ · DOI: 10.1016/j.ejwf.2026.08.004
