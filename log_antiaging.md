@@ -946,3 +946,147 @@ Nenhum artigo novo desde a última execução.
 - **Senescent obesity signature in breast cancer: a paradigm of reverse cardio-oncology.**
   Carbone F, Scuricini A, Cabri M et al. — European heart journal, 2026
   https://pubmed.ncbi.nlm.nih.gov/41885139/ · DOI: 10.1093/eurheartj/ehag144
+
+## Rodada — 2026-09-28 09:16
+
+35 artigo(s) novo(s):
+
+- **CCN1 upregulation in diabetic wounds suppresses PINK1/Parkin-mediated mitophagy in dermal fibroblasts by regulating HIF-1α protein stability under decompensated hypoxic conditions.**
+  Chen T, Yang P, Xie Y et al. — Cellular signalling, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42802000/ · DOI: 10.1016/j.cellsig.2026.112909
+
+- **PLXDC2 siRNA-Mediated Intervention Attenuates Microglial Senescence Through cGAS-STING Signaling.**
+  Lu H, Zheng Z, Wang F et al. — Advanced science (Weinheim, Baden-Wurttemberg, Germany), 2026
+  https://pubmed.ncbi.nlm.nih.gov/42801545/ · DOI: 10.1002/advs.77793
+
+- **T-Cell Remodeling in Renal Fibrosis: From Acute Injury to Chronic Kidney Disease.**
+  Li Q, Guan J, Song Y et al. — Advanced science (Weinheim, Baden-Wurttemberg, Germany), 2026
+  https://pubmed.ncbi.nlm.nih.gov/42801536/ · DOI: 10.1002/advs.78008
+
+- **Advances in Injectable miRNA-Loaded Nanocomposite Hydrogel Systems for Cartilage Repair in KOA.**
+  Wang K, Yan B, Zhu C et al. — International journal of nanomedicine, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42801095/ · DOI: 10.2147/IJN.S639907
+
+- **Bone-Targeted Engineered Exosomes Delivering Betaine Alleviate Osteoporosis via Autophagy-Driven Osteogenesis.**
+  Li X, Li M, Li Z et al. — Advanced materials (Deerfield Beach, Fla.), 2026
+  https://pubmed.ncbi.nlm.nih.gov/42800918/ · DOI: 10.1002/adma.75185
+
+- **The Eukaryotic Host-Microbe-Phage-Nutrition Interplay Determines the Bacterial Effectors of Supplemental Lysine's Health Benefits: An Experimental Cellular Senescence Model of Digestive Conditions in Older Adults.**
+  Ghadimi D, Blömer S, Kaya AŞ et al. — Mechanisms of ageing and development, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42800484/ · DOI: 10.1016/j.mad.2026.112260
+
+- **Biological aging for the advancement of biogerontology: Between hopes and hypes.**
+  Marzetti E, Picca A — The journal of nutrition, health & aging, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42800282/ · DOI: 10.1016/j.jnha.2026.100992
+
+- **Plasma and cerebrospinal fluid proteomics reveal distinct patterns of senescence and neuropathology in aging rhesus macaques.**
+  Diniz GB, Schwartz K, Erices CT et al. — GeroScience, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42799938/ · DOI: 10.1007/s11357-026-02555-7
+
+- **Protein-protein interaction network-based evaluation of lung cancer relevance and hub gene identification from in vitro crocidolite exposure signatures.**
+  Tomonaga T, Iida M, Izumi H et al. — Journal of occupational health, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42799656/ · DOI: 10.1093/joccuh/uiag060
+
+- **Integrative Bulk, Single-Cell, and Spatial Transcriptomic Analyses Nominate PPARG as a Candidate Senescence-Related Prognostic Gene in Osteosarcoma.**
+  Li Y, Qin W, Liang T et al. — Journal of visualized experiments : JoVE, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42799625/ · DOI: 10.3791/73062
+
+- **Mechanisms of Brain Aging and Their Links to Alzheimer's and Parkinson's Disease Pathology.**
+  Yi H, Qin H, Goon JA et al. — International journal of molecular sciences, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42794852/ · DOI: 10.3390/ijms27188426
+
+- **Senescent Cell Heterogeneity: Tissue-Dependent Signatures and Age Dynamics Revealed by Human scRNA-Seq Data.**
+  Matveeva K, Shevyrev D — International journal of molecular sciences, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42794841/ · DOI: 10.3390/ijms27188416
+
+- **Study on blueberries, protein and exercise for improving frailty and cardiovascular disease (STRONG): protocol for a parallel-group randomised controlled superiority trial in older Nova Scotians.**
+  Cahill LE, Grandy SA, Gottheil C et al. — BMJ open, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42790922/ · DOI: 10.1136/bmjopen-2025-114286
+
+- **Type 2 Angiotensin II receptor (AT2R) deficiency exacerbates cardiac senescence and fibrosis in aging mice.**
+  Zacarias-Rodrigues LM, Parletta AC, Fevereiro MR et al. — Clinical science (London, England : 1979), 2026
+  https://pubmed.ncbi.nlm.nih.gov/42788951/ · DOI: 10.1042/CS20261713
+
+- **The Possibility and Characteristics of Senescence-Related Changes in Reproductive Tissues Such as the Ovary, Oviduct, and Uterus.**
+  Shirasuna K, Shirota A, Iwata H — Reproductive medicine and biology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42787541/ · DOI: 10.1002/rmb2.70100
+
+- **The GrimAge clock corresponds to brain ageing and social determinants of health in people with HIV.**
+  Petersen KJ, Kim S, Canfield P et al. — EBioMedicine, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42785234/ · DOI: 10.1016/j.ebiom.2026.106492
+
+- **The role of senescence in kidney ageing, injury and fibrosis.**
+  Janas PP, Mason T, Ferenbach DA — Nature reviews. Nephrology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42778710/ · DOI: 10.1038/s41581-026-01123-8
+
+- **Research Progress in Skin Anti-Aging Drugs Based on Core Pathological Drivers.**
+  Wei Y, Liang C, Zhou X et al. — Ageing research reviews, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42777921/ · DOI: 10.1016/j.arr.2026.103375
+
+- **GLP-1 receptor agonists and podocyte senescence in diabetic kidney disease: structural pharmacology, mechanistic evidence, and multi-receptor agonism.**
+  Yue H, Wang Y, Guo X et al. — Biochemical pharmacology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42777788/ · DOI: 10.1016/j.bcp.2026.118495
+
+- **Engineered Extracellular Vesicle Revitalizing Macrophage Energy Metabolism for Aged Wound Repair.**
+  Ding J, Li J, Ji T et al. — Advanced materials (Deerfield Beach, Fla.), 2026
+  https://pubmed.ncbi.nlm.nih.gov/42775811/ · DOI: 10.1002/adma.75099
+
+- **Senolytics for Cancer treatment: complexities and opportunities.**
+  Al Shboul S, Gewirtz DA, Saleh T — Expert opinion on therapeutic targets, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42775553/ · DOI: 10.1080/14728222.2026.2738910
+
+- **Lymphatic Endothelial Senescence Is Associated with Drainage Failure Despite Vessel Expansion in Pulmonary Fibrosis.**
+  Zhang X, Lu B, Wang Z et al. — American journal of physiology. Cell physiology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42775509/ · DOI: 10.1152/ajpcell.00129.2026
+
+- **Blue Light Exposure Induces Changes Associated With Senescence and Skin Aging in Human Dermal Fibroblasts.**
+  McNish H, Mathapathi MS, Figlak K et al. — FASEB bioAdvances, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42775285/ · DOI: 10.1096/fba.2026-00200
+
+- **MicroRNA-122-5p Targets FOXO3 to Mediate Podocyte Senescence and Proteinuria Induced by Angiotensin II Type 1 Receptor Autoantibodies in Preeclampsia.**
+  Xu G, Yang Z, Liu Y et al. — Reproductive sciences (Thousand Oaks, Calif.), 2026
+  https://pubmed.ncbi.nlm.nih.gov/42773333/ · DOI: 10.1007/s43032-026-02198-1
+
+- **Efficient recovery of bioactive recombinant human epidermal growth factor from inclusion bodies via Temperature-assisted Denaturation.**
+  Wong RS, Liew MWO, Ong EBB — Journal of biotechnology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42772600/ · DOI: 10.1016/j.jbiotec.2026.09.013
+
+- **Stress-induced helicase DHX36 controls neuroinflammation.**
+  Kumar M J V, Escarcega RD, Tan C et al. — The Journal of biological chemistry, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42772562/ · DOI: 10.1016/j.jbc.2026.113584
+
+- **Environmentally relevant phthalic acid exposure promotes pulmonary fibrogenesis through IL-1α/NF-κB pathway: Implications for microplastic-associated respiratory health risks.**
+  Xiang Y, Wang Q, Zhou K et al. — Ecotoxicology and environmental safety, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42771978/ · DOI: 10.1016/j.ecoenv.2026.120827
+
+- **Aging of Skeletal Muscle: From Molecular Mechanisms to Therapeutic Interventions.**
+  Liu T, Hu Y — MedComm, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42769716/ · DOI: 10.1002/mco2.70995
+
+- **Phenotypic age metrics for risk stratification of chronic disease burden and all-cause mortality in adults.**
+  Wang Z, Zhong X, Cai Y et al. — Cardiovascular diabetology. Endocrinology reports, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42768379/ · DOI: 10.1186/s40842-026-00331-2
+
+- **RamanOmics decodes the spatial vibrational-molecular architecture of senescence in aging and repair.**
+  Zhang K, Chen X, Monticolo F et al. — Nature aging, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42768111/ · DOI: 10.1038/s43587-026-01219-7
+
+- **Orchestrating Stress Granule Dynamics by SUMOylation: A New Frontier in Treating Stress-Induced Age-Related Diseases.**
+  Zhang J, Hu H, Zhu Y et al. — Pharmacological research, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42767538/ · DOI: 10.1016/j.phrs.2026.108464
+
+- **Complement factor B blockade by iptacopan drives antitumor complement-based immunomodulation in pancreatic cancer microenvironment.**
+  Zhou D, Takano S, Sogawa K et al. — The American journal of pathology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42767420/ · DOI: 10.1016/j.ajpath.2026.08.005
+
+- **Senolytic Interventions Enhance the Anti-metastatic Activity of Chemotherapy in Prostate Cancer.**
+  Zhou L, Murphy KC, Giwa HK et al. — Cancer research, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42766432/ · DOI: 10.1158/0008-5472.CAN-26-0493
+
+- **Efficacy of picosecond Nd:YAG 1064 nm laser in melasma treatment: a real-world retrospective analysis.**
+  Lê TT, Lê AV, Tạ HQ et al. — Italian journal of dermatology and venereology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42765845/ · DOI: 10.23736/S2784-8671.26.08646-9
+
+- **Layer-Specific Dermal and Subcutaneous Delivery via Modular LNP-Hydrogel-Integrated Threaded Microneedles.**
+  Xie F, Zhang Y, Ling S et al. — Advanced science (Weinheim, Baden-Wurttemberg, Germany), 2026
+  https://pubmed.ncbi.nlm.nih.gov/42765288/ · DOI: 10.1002/advs.77624

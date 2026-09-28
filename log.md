@@ -106,3 +106,15 @@ Nenhum artigo novo desde a última execução.
 - **Comparative analysis of experimental torque behavior and physicochemical properties of commercial and in‑house orthodontic aligners.**
   Holderbaum G, Beatrici A, Takamori ER et al. — Journal of the World federation of orthodontists, 2026
   https://pubmed.ncbi.nlm.nih.gov/42744724/ · DOI: 10.1016/j.ejwf.2026.08.004
+
+## Rodada — 2026-09-28 09:16
+
+2 artigo(s) novo(s):
+
+- **Clinical Outcomes of Sequential Distalization with Clear Aligners: A Systematic Review and Meta-Analysis.**
+  Baxmann M, Zsoldos M, Kárpáti K — Dentistry journal, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42782998/ · DOI: 10.3390/dj14090611
+
+- **Debonding of Clear Aligner Attachments With Fluorescence-Aided Identification Technique (FIT): An In Vitro Study.**
+  Bordihn IV, Nottmeier C, Stasche HIU et al. — The journal of adhesive dentistry, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42770988/ · DOI: 10.3290/j.jad.c_2806

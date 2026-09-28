@@ -122,3 +122,7 @@
 - **Glycosidic linkage-dependent fermentation of polysaccharide mixtures by human gut microbiota in vitro.**
   Silva SP, González A, Roupar D et al. — Carbohydrate polymers, 2026
   https://pubmed.ncbi.nlm.nih.gov/42493079/ · DOI: 10.1016/j.carbpol.2026.125497
+
+## Rodada — 2026-09-28 09:16
+
+Nenhum artigo novo desde a última execução.
