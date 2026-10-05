@@ -118,3 +118,31 @@ Nenhum artigo novo desde a última execução.
 - **Debonding of Clear Aligner Attachments With Fluorescence-Aided Identification Technique (FIT): An In Vitro Study.**
   Bordihn IV, Nottmeier C, Stasche HIU et al. — The journal of adhesive dentistry, 2026
   https://pubmed.ncbi.nlm.nih.gov/42770988/ · DOI: 10.3290/j.jad.c_2806
+
+## Rodada — 2026-10-05 18:06
+
+6 artigo(s) novo(s):
+
+- **Enhancing the predictability of tooth movements with clear aligners-Part 2: Clinical strategies.**
+  Long H, Park JH — American journal of orthodontics and dentofacial orthopedics : official publication of the American Association of Orthodontists, its constituent societies, and the American Board of Orthodontics, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42814043/ · DOI: 10.1016/j.ajodo.2026.08.008
+
+- **Photobiomodulation therapy for accelerating clear aligner tooth movement: A literature review.**
+  Bahrami R, Pourhajibagher M, Bahador A — Photodiagnosis and photodynamic therapy, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42468753/ · DOI: 10.1016/j.pdpdt.2026.105580
+
+- **Multisite Mini-Implant Anchorage for Maxillary Intrusion With Clear Aligners: A Finite Element Analysis.**
+  Chen S, Feng S, Ni W et al. — International dental journal, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42462346/ · DOI: 10.1016/j.identj.2026.109728
+
+- **Mandibular Response in Class II Division 1 Growing Subjects: Clear Aligners vs. Rapid Maxillary Expansion Therapy. A Controlled Pilot Study.**
+  Chiara RF, Letizia L, Francesca G et al. — Orthodontics & craniofacial research, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42141939/ · DOI: 10.1111/ocr.70141
+
+- **Optimizing Maxillary Anterior Teeth Intrusion in Clear Aligner Therapy: A Finite Element Analysis of Attachment Efficacy.**
+  Shah C, Batra P, Vaiid N — Orthodontics & craniofacial research, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42028979/ · DOI: 10.1111/ocr.70131
+
+- **Impact of Different Cleaning Protocols on the Optical and Morphological Properties of 3D-Printed Aligners After In Vitro Aging.**
+  Abdulkarim IY, Al-Mashhadany SM — European journal of dentistry, 2026
+  https://pubmed.ncbi.nlm.nih.gov/41412192/ · DOI: 10.1055/s-0045-1813031

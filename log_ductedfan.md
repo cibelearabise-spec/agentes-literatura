@@ -19,3 +19,7 @@ Nenhum preprint novo desde a última execução.
   Saideep Verma, Nimisha Tatapudi, Akshay Arjun et al. — arXiv, 2026-08-31
   https://arxiv.org/abs/2608.30222v1
   _Hybrid systems like tilt-rotor bicopter drones combine the beneficial characteristics of both fixed-wing and rotary-wing technology, enabling long endurance and VTOL capability. However, such drones also require an optimum design to ensure both static and dynamic stability. The m…_
+
+## Rodada — 2026-10-05 18:07
+
+Nenhum preprint novo desde a última execução.

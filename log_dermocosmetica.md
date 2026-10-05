@@ -126,3 +126,15 @@
 ## Rodada — 2026-09-28 09:16
 
 Nenhum artigo novo desde a última execução.
+
+## Rodada — 2026-10-05 18:07
+
+2 artigo(s) novo(s):
+
+- **The dual role of CCL20 in inflammatory disease: Maintenance of host defense and immunopathological balance.**
+  Xu L, Xiao Y, Jiang Y et al. — Pathology, research and practice, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42284975/ · DOI: 10.1016/j.prp.2026.156586
+
+- **Gut-skin microbial interactions in wound healing: From mechanistic insights to therapeutic opportunities.**
+  Saloi D, Zaman A, Saha D et al. — Tissue & cell, 2026
+  https://pubmed.ncbi.nlm.nih.gov/41996968/ · DOI: 10.1016/j.tice.2026.103534
