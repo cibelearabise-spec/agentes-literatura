@@ -138,3 +138,7 @@ Nenhum artigo novo desde a última execução.
 - **Gut-skin microbial interactions in wound healing: From mechanistic insights to therapeutic opportunities.**
   Saloi D, Zaman A, Saha D et al. — Tissue & cell, 2026
   https://pubmed.ncbi.nlm.nih.gov/41996968/ · DOI: 10.1016/j.tice.2026.103534
+
+## Rodada — 2026-10-12 18:45
+
+Nenhum artigo novo desde a última execução.

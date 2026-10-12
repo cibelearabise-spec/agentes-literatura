@@ -1302,3 +1302,183 @@ Nenhum artigo novo desde a última execução.
 - **Development of nanoparticles loaded with D-mannose for topical treatment to alleviate skin aging via rescuing SIRT1 from degradation.**
   Luo J, Shao W, Liu S et al. — Materials today. Bio, 2026
   https://pubmed.ncbi.nlm.nih.gov/42730012/ · DOI: 10.1016/j.mtbio.2026.103589
+
+## Rodada — 2026-10-12 18:44
+
+44 artigo(s) novo(s):
+
+- **The polycentric aging framework: epigenetic regulation as a dominant lifespan-limiting center in human aging.**
+  Bartoszewicz M, Niemczyk M — Aging, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42862118/ · DOI: 10.18632/aging.206426
+
+- **Paracrine Bone-Derived Senescent Secretome is Associated with Spatially Patterned ECM Remodeling and Altered Biomechanics in Human Brain Organoids.**
+  Kim C, Ofria LD, Shaygani H et al. — Stem cells (Dayton, Ohio), 2026
+  https://pubmed.ncbi.nlm.nih.gov/42861725/ · DOI: 10.1093/stmcls/sxag057
+
+- **Metformin Partially Modulates Cisplatin-Induced Neuronal Senescence but Does Not Prevent Rat Peripheral Sensory Hypersensitivity.**
+  Saleh T, Nairat F, Barham R et al. — Toxicology mechanisms and methods, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42860854/ · DOI: 10.1080/15376516.2026.2748395
+
+- **Biological age acceleration and cardiovascular-kidney-metabolic syndrome progression: evidence from UK Biobank and NHANES.**
+  Zhang Y, Zhang C, Wang X et al. — Renal failure, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42860781/ · DOI: 10.1080/0886022X.2026.2738248
+
+- **Camellioside A Engages SIRT3 to Promote FOXO3-PINK1/Parkin Dependent Mitophagy and Attenuate UVB-Induced Skin Photoaging.**
+  Gao H, Feng S, Wang J et al. — Pharmacological research, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42860232/ · DOI: 10.1016/j.phrs.2026.109672
+
+- **Interpreting ocular age estimates: source, output, evidence, and clinical meaning.**
+  Bair H — Biogerontology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42859259/ · DOI: 10.1007/s10522-026-10525-x
+
+- **Deciphering the mechanisms of resveratrol in knee osteoarthritis treatment: insights from bioinformatics and experimental validation.**
+  Huang C, Ye X, Liu X et al. — Naunyn-Schmiedeberg's archives of pharmacology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42859207/ · DOI: 10.1007/s00210-026-05985-4
+
+- **Biomarker-Guided, Stage-Specific Senotherapy for Metabolic Dysfunction-Associated Steatotic Liver Disease.**
+  Chu Y, Jin W, She W et al. — Aging and disease, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42858323/ · DOI: 10.14336/AD.2026.1114
+
+- **FSP1+ stromal cell-associated macrophage efferocytosis contributes to impaired decidualization in adenomyosis.**
+  Wang X, Mei J, Li R et al. — Human reproduction (Oxford, England), 2026
+  https://pubmed.ncbi.nlm.nih.gov/42858077/ · DOI: 10.1093/humrep/deag160
+
+- **Disease-associated mutations directionally modulate epigenetic age in iPSC-derived tissues.**
+  Skvir NJ, Dowrey TW, Cranston SF et al. — bioRxiv : the preprint server for biology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42856619/ · DOI: 10.64898/2026.09.30.755445
+
+- **Pannexin 1 expression in circulating progenitor marker-positive cells is associated with senescence and cardiovascular risk.**
+  Tien TY, Chang CY, Wu YJ et al. — Biomarker research, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42855730/ · DOI: 10.1186/s40364-026-01006-x
+
+- **Effects of Telomere Related Senescence-Genes in Cervical Cancer.**
+  Xu C, Xu Y, Qingcao et al. — Reproductive sciences (Thousand Oaks, Calif.), 2026
+  https://pubmed.ncbi.nlm.nih.gov/42855652/ · DOI: 10.1007/s43032-026-02217-1
+
+- **Placenta-derived CXCL1 is associated with fetal renal dysplasia upon gestational cadmium treatment.**
+  Wu LL, Chang W, Zhang TC et al. — Ecotoxicology and environmental safety, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42854375/ · DOI: 10.1016/j.ecoenv.2026.120898
+
+- **Decoding the immune regulation of ovarian aging: mechanisms and therapeutic strategies.**
+  Wang C, Li N, Chen ZJ et al. — Human reproduction update, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42854090/ · DOI: 10.1093/humupd/dmag030
+
+- **Small extracellular vesicles as mediators of paracrine senescence in cellular models of aging.**
+  Llabrés-Mas AM, Merino-Navarro A, Menéndez-García M et al. — Aging, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42853681/ · DOI: 10.18632/aging.206425
+
+- **Cardiorespiratory fitness and risk of depression and anxiety: A prospective cohort study with proteomic profiling in the UK Biobank.**
+  Liu Y, Li Y, Liu X et al. — Journal of affective disorders, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42849852/ · DOI: 10.1016/j.jad.2026.122604
+
+- **Organoids for modeling cellular senescence and age-related pathology: From experimental reconstruction to mechanistic and translational applications.**
+  Yang Z, Sun H, Zhang F et al. — Ageing research reviews, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42849758/ · DOI: 10.1016/j.arr.2026.103408
+
+- **Epigenetic aging and transposon dysregulation reflect size-related lifespan compression in dogs.**
+  Mariner BL, McCoy BM, Greenier A et al. — Science (New York, N.Y.), 2026
+  https://pubmed.ncbi.nlm.nih.gov/42848887/ · DOI: 10.1126/science.aeb2986
+
+- **Mechanometabolic endothelial senescence as a translational framework for cardiometabolic vascular disease and vascular ageing.**
+  Lanlan L, Fan G, Ran Z et al. — Molecular biology reports, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42848089/ · DOI: 10.1007/s11033-026-12792-w
+
+- **Photo-downregulation of SIRT4 mitigates aging in mice by enhancing H3K9ac via fatty acid metabolism.**
+  Deng F, Yang R, Niu J et al. — eLife, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42847170/ · DOI: 10.7554/eLife.111498
+
+- **Macrophage pyroptosis drives luminal senescence and club-cell reprogramming in 5α-reductase inhibitor-treated prostatic hyperplasia.**
+  Li Z, Zhang Z, Zhao Q et al. — Experimental & molecular medicine, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42844351/ · DOI: 10.1038/s12276-026-01864-3
+
+- **RSL24D1 links ribosome biogenesis to p53 activation in melanoma.**
+  Stahl L, Staebler S, Bosserhoff AK — Cancer gene therapy, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42844336/ · DOI: 10.1038/s41417-026-01089-6
+
+- **Nanoparticle-based senolytic and senomorphic therapies for healthy aging: design principles, translational evidence, and challenges.**
+  Huang J, Ji L, Jin H et al. — Ageing research reviews, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42843466/ · DOI: 10.1016/j.arr.2026.103398
+
+- **Is there a role for senotherapeutics in the treatment of giant cell arteritis?**
+  Marvisi C, Pipitone N, Franceschi C et al. — Ageing research reviews, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42843464/ · DOI: 10.1016/j.arr.2026.103391
+
+- **Endogenous retrovirus control of calbindin is essential for human early embryogenesis.**
+  Pape J, McCarthy A, Serna-Morales E et al. — Science advances, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42842653/ · DOI: 10.1126/sciadv.aee4523
+
+- **The Role of Endoplasmic Reticulum Stress in Extrinsic Skin Aging and Protective Strategies of Natural Plant Products.**
+  Liu Y, Huang H, Ji X et al. — Skin pharmacology and physiology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42842562/ · DOI: 10.1159/spp/aetag013
+
+- **Age-Associated Differences in Facial Skin Structure in Chinese Women: a Cross-Sectional Study.**
+  Zhang C, Wang K, Gao L et al. — Dermatology and therapy, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42842112/ · DOI: 10.1007/s13555-026-01931-7
+
+- **Mitochondrial dysfunction of renal tubular epithelial cells in chronic kidney disease-associated fibrosis: from organelle homeostasis to multicellular remodeling.**
+  Ni S, Li Z, Pan X et al. — Molecular biology reports, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42842032/ · DOI: 10.1007/s11033-026-12861-0
+
+- **Microglial lipid metabolism in perioperative neurocognitive risk: aging-related priming, organelle crosstalk, and lipid-redox injury.**
+  Cai D, Ke X, Luo F et al. — Reviews in the neurosciences, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42841293/ · DOI: 10.1515/revneuro-2026-0136
+
+- **Growth hormone and aging cardiomyocytes.**
+  Alt EU, Izadpanah R — Cardiovascular research, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42839539/ · DOI: 10.1093/cvr/cvag225
+
+- **Extending the Lifespan of Human Mesenchymal Stromal Cells: Approaches to Immortalization and Clinical Prospects.**
+  Gokul Krishna S, Kulal N, Kannan S et al. — Biochimie, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42838382/ · DOI: 10.1016/j.biochi.2026.10.009
+
+- **Microplastics and Nanoplastics as a Novel Cardiovascular Risk Factor: A Narrative Review.**
+  Sultan S, Ahmed A, Nounu M et al. — The American journal of medicine, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42838186/ · DOI: 10.1016/j.amjmed.2026.09.049
+
+- **Resveratrol protects primary hepatocytes against senescence induced by endogenous toxic metabolites.**
+  Hedari N, Hesketh A, Sandeman S et al. — Mechanisms of ageing and development, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42838150/ · DOI: 10.1016/j.mad.2026.112261
+
+- **A machine learning-derived aging index for risk stratification and mortality prediction in cardiovascular-kidney-metabolic syndrome: A retrospective cohort study.**
+  Zhu Z, Ren K, Wang D et al. — PLoS medicine, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42837317/ · DOI: 10.1371/journal.pmed.1005078
+
+- **Shorter Leukocyte telomere length as a marker of biological aging in relapsing-remitting multiple sclerosis.**
+  Karacan I, Susgun S, Savasci D et al. — Acta neurologica Belgica, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42837039/ · DOI: 10.1007/s13760-026-03208-4
+
+- **Senotherapeutic potential against xeroderma pigmentosum.**
+  Wang X, Nishida M, Yoshioka A et al. — Stem cell research & therapy, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42834419/ · DOI: 10.1186/s13287-026-05227-7
+
+- **Therapeutic reversal of cellular senescence: A systematic review of senolytics, senomorphics and anti-ageing therapies in human clinical trials.**
+  Trivedi H, Tripathi S, Thacker J et al. — British journal of clinical pharmacology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42834340/ · DOI: 10.1002/bcp.70871
+
+- **Accelerated Biological Aging and Risk of Early-Onset Colorectal Cancer: Findings from a Large Prospective East Asian Cohort.**
+  Chang Y, Kim K, Wild SH et al. — Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42833432/ · DOI: 10.1016/j.cgh.2026.09.039
+
+- **Beyond Inflammation: The NLRP3 Inflammasome as a Cellular and Mechanical Hub of Vascular Remodeling in Hypertension.**
+  Abulaiti P, Abudureyimu S, Adi D et al. — American journal of hypertension, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42832295/ · DOI: 10.1093/ajh/hpag116
+
+- **Engineering the geriatric heart to model HFpEF.**
+  Bass-Stringer S, Lees JG, Lim SY — Heart failure reviews, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42832102/ · DOI: 10.1007/s10741-026-10683-7
+
+- **Electroacupuncture Targeting the NLRP3 Inflammasome in Senescence‑associated Cognitive Impairment: Mechanistic Synthesis and Meta‑analysis of Clinical Randomized Controlled Trials.**
+  Ma T, Zhou H, Liu Y et al. — Neurochemical research, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42831987/ · DOI: 10.1007/s11064-026-04901-9
+
+- **Platelet-derived nanovesicle-LNP hybrid delivering collagen III mRNA for skin rejuvenation.**
+  Xue W, Wang M, Jiang Y et al. — International journal of pharmaceutics, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42612849/ · DOI: 10.1016/j.ijpharm.2026.127307
+
+- **The discovery of potent and selective N6-modified adenosine derivatives as effective chemotherapeutic agents to overcome p53-dependent drug resistance in cancer and HPIV-3/AdV5 respiratory tract infections.**
+  Speina E, Burchiellaro K, Denel-Bobrowska M et al. — Bioorganic chemistry, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42570380/ · DOI: 10.1016/j.bioorg.2026.110335
+
+- **Zinc-dependent RNA-binding protein controls hepatocyte senescence and recovery from alcohol-related liver failure.**
+  Dutta RK, Du K, Ren N et al. — Gut, 2026
+  https://pubmed.ncbi.nlm.nih.gov/41534893/ · DOI: 10.1136/gutjnl-2025-337019

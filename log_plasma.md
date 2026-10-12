@@ -28,3 +28,12 @@ Nenhum preprint novo desde a última execução.
   S. P. Worden, F. G. Kennedy — arXiv, 2026-09-30
   https://arxiv.org/abs/2609.40011v1
   _Project CERES proposes a reusable deep-space transportation architecture centered on the dwarf planet Ceres, combining nuclear thermal propulsion (NTP) with in-situ production of water, hydrogen, oxygen and ammonia. Its first flight, a Pathfinder that surveys Ceres and returns sa…_
+
+## Rodada — 2026-10-12 18:45
+
+1 preprint(s) novo(s):
+
+- **Contributions of the breathing waveform and residual fluctuations to power and higher-order spectra in a Hall-thruster plume**
+  Zilong Peng, Baisheng Wang, Zhongping Zhao et al. — arXiv, 2026-10-08
+  https://arxiv.org/abs/2610.11348v1
+  _Higher-frequency power in Hall-thruster plume-probe signals can arise from both harmonics of a repeatable breathing waveform and fluctuations about it, complicating spectral interpretation. We decompose 197 paired records from 20 sequentially sampled probe-pair geometries at one …_

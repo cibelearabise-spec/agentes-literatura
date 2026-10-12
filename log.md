@@ -146,3 +146,15 @@ Nenhum artigo novo desde a última execução.
 - **Impact of Different Cleaning Protocols on the Optical and Morphological Properties of 3D-Printed Aligners After In Vitro Aging.**
   Abdulkarim IY, Al-Mashhadany SM — European journal of dentistry, 2026
   https://pubmed.ncbi.nlm.nih.gov/41412192/ · DOI: 10.1055/s-0045-1813031
+
+## Rodada — 2026-10-12 18:44
+
+2 artigo(s) novo(s):
+
+- **Why does digitally predicted tooth movement fail? the biology-digital mismatch in orthodontics: a critical narrative review.**
+  Alsulaiman AA — The Saudi dental journal, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42842148/ · DOI: 10.1007/s44445-026-00252-x
+
+- **Torque expression in directly printed and thermoformed clear aligners: a controlled in vitro biomechanical comparison of power ridge effects.**
+  Khadre AA, Elkorashie M, Elzahar MM et al. — Progress in orthodontics, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42842071/ · DOI: 10.1186/s40510-026-00647-w
