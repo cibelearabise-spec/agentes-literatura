@@ -32,3 +32,7 @@ Nenhum preprint novo desde a última execução.
   Peter M. Donley, Joseph L. Moore — arXiv, 2026-10-06
   https://arxiv.org/abs/2610.09207v1
   _Belief-space planners with separately designed or off-the-shelf estimators may have access to state-relevant information the estimator does not observe. Consequently, even an estimator that minimizes mean-squared error under its own information can have a nonzero error mean when …_
+
+## Rodada — 2026-10-19 16:18
+
+Nenhum preprint novo desde a última execução.

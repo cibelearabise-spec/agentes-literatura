@@ -158,3 +158,7 @@ Nenhum artigo novo desde a última execução.
 - **Torque expression in directly printed and thermoformed clear aligners: a controlled in vitro biomechanical comparison of power ridge effects.**
   Khadre AA, Elkorashie M, Elzahar MM et al. — Progress in orthodontics, 2026
   https://pubmed.ncbi.nlm.nih.gov/42842071/ · DOI: 10.1186/s40510-026-00647-w
+
+## Rodada — 2026-10-19 16:17
+
+Nenhum artigo novo desde a última execução.

@@ -37,3 +37,12 @@ Nenhum preprint novo desde a última execução.
   Zilong Peng, Baisheng Wang, Zhongping Zhao et al. — arXiv, 2026-10-08
   https://arxiv.org/abs/2610.11348v1
   _Higher-frequency power in Hall-thruster plume-probe signals can arise from both harmonics of a repeatable breathing waveform and fluctuations about it, complicating spectral interpretation. We decompose 197 paired records from 20 sequentially sampled probe-pair geometries at one …_
+
+## Rodada — 2026-10-19 16:18
+
+1 preprint(s) novo(s):
+
+- **The START mission: Probing the 2029 Apophis Flyby via a Low-Cost Geocentric SmallSat**
+  Yixuan Wu, Yunda Li, Bowen Zheng et al. — arXiv, 2026-10-16
+  https://arxiv.org/abs/2610.22904v1
+  _The Student-led Threatening Asteroid Reconnaissance of Tsinghua (START) marks the inaugural mission of the Tianxing Program, a deep-space exploration initiative led by students at Tsinghua University. Conceived as a low-cost, rapid-response small-satellite mission, START will inv…_
