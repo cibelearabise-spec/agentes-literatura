@@ -46,3 +46,7 @@ Nenhum preprint novo desde a última execução.
   Yixuan Wu, Yunda Li, Bowen Zheng et al. — arXiv, 2026-10-16
   https://arxiv.org/abs/2610.22904v1
   _The Student-led Threatening Asteroid Reconnaissance of Tsinghua (START) marks the inaugural mission of the Tianxing Program, a deep-space exploration initiative led by students at Tsinghua University. Conceived as a low-cost, rapid-response small-satellite mission, START will inv…_
+
+## Rodada — 2026-10-26 15:57
+
+Nenhum preprint novo desde a última execução.

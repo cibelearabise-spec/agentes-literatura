@@ -162,3 +162,11 @@ Nenhum artigo novo desde a última execução.
 ## Rodada — 2026-10-19 16:17
 
 Nenhum artigo novo desde a última execução.
+
+## Rodada — 2026-10-26 15:57
+
+1 artigo(s) novo(s):
+
+- **Effects of clear aligner attachment template sectioning on bonding accuracy and anterior retraction biomechanics: A finite element study.**
+  Su Q, Yang L, Wu L et al. — International orthodontics, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42914787/ · DOI: 10.1016/j.ortho.2026.101256
