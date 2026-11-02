@@ -150,3 +150,11 @@ Nenhum artigo novo desde a última execução.
 ## Rodada — 2026-10-26 15:57
 
 Nenhum artigo novo desde a última execução.
+
+## Rodada — 2026-11-02 19:17
+
+1 artigo(s) novo(s):
+
+- **A Case of the Blues: Pseudochromhidrosis in an Adolescent Following Injury.**
+  Kesselman AL — Journal of pediatric health care : official publication of National Association of Pediatric Nurse Associates & Practitioners, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42501027/ · DOI: 10.1016/j.pedhc.2026.06.012

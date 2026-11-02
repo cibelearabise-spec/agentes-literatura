@@ -50,3 +50,17 @@ Nenhum preprint novo desde a última execução.
 ## Rodada — 2026-10-26 15:57
 
 Nenhum preprint novo desde a última execução.
+
+## Rodada — 2026-11-02 19:17
+
+2 preprint(s) novo(s):
+
+- **Integrating Low-Thrust Transfer Dynamics into POMDP Planning for On-Orbit Servicing**
+  Susmitha Patnala, Vincent Mousseau, Adam Abdin — arXiv, 2026-10-30
+  https://arxiv.org/abs/2610.41839v1
+  _Recent developments in both high-thrust (HT) and low-thrust (LT) propulsion technologies broaden design options for on-orbit servicing (OOS) missions. However, incorporating LT transfers into OOS mission planning requires accounting for the trade-off between prescribed transfer d…_
+
+- **Propulsion Systems for a Starshade Rendezvous Mission with the Habitable World Observatory**
+  Mario Damiano, Rhonda Morgan, Michael Turmon et al. — arXiv, 2026-10-26
+  https://arxiv.org/abs/2610.36200v2
+  _We assess how propulsion and operational constraints affect exo-Earth characterization with a starshade rendezvous mission for a Habitable Worlds Observatory (HWO)-like telescope at Sun-Earth L2. Using end-to-end Monte Carlo simulations with EXOSIMS, we model a 60 m starshade for…_
