@@ -2002,3 +2002,187 @@ Nenhum artigo novo desde a última execução.
 - **Premature immunosenescence in AYA gastrointestinal cancer: The metabolic-inflammatory-hormonal axis as an integrative framework: A systematic review.**
   Wen J, Yu H — Medicine international, 2026
   https://pubmed.ncbi.nlm.nih.gov/42741245/ · DOI: 10.3892/mi.2026.338
+
+## Rodada — 2026-11-09 19:36
+
+45 artigo(s) novo(s):
+
+- **Senescence-Associated Loss of α-Synuclein in Brain Microvascular Endothelium Compromises Tight Junctions and Disrupts Blood-Brain Barrier Integrity.**
+  Wang Z, Takami Y, Wang C et al. — Aging cell, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43001901/ · DOI: 10.1111/acel.70770
+
+- **MUC1 attenuates chronic obstructive pulmonary disease through integrated regulation of pulmonary epithelial cell senescence, transdifferentiation, and inflammatory cascades.**
+  Zhang Z, Li D, Kong W et al. — Signal transduction and targeted therapy, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43000405/ · DOI: 10.1038/s41392-026-03056-x
+
+- **Clinical Evaluation of Apple-Derived Exosome After Microneedling for Facial Rejuvenation: A Prospective Split-Face Self-Controlled Study.**
+  Jin YX, Koh A, Kang H et al. — Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI), 2026
+  https://pubmed.ncbi.nlm.nih.gov/43000194/ · DOI: 10.1111/srt.70386
+
+- **Sirtuins in Cellular Senescence and Cardiovascular Diseases: From Mechanistic Basis to Activator Development and Translational Perspectives.**
+  Deng Y, Cai Y, Wang X et al. — Ageing research reviews, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43000086/ · DOI: 10.1016/j.arr.2026.103439
+
+- **Metabolite-Driven Immunometabolic Crosstalk in Intervertebral Disc Degeneration: The Macrophage-Disc Cell Interface.**
+  Ma D, Zhao J, Guo K et al. — Journal of inflammation research, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42999835/ · DOI: 10.2147/JIR.S651180
+
+- **Association between biological age acceleration and the risk of aortic valve stenosis: An observational epidemiologic and Mendelian randomization study.**
+  Zheng Y, Xu X, Li R et al. — The journal of nutrition, health & aging, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42998401/ · DOI: 10.1016/j.jnha.2026.101024
+
+- **Multi-Omics Reveals STAT1 as a Central Regulator of Oxidative Stress-Induced Senescence in the Aging Retina.**
+  Fan Y, Li Y, Wu X et al. — Aging cell, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42998043/ · DOI: 10.1111/acel.70792
+
+- **Berberine attenuates cigarette smoke extract-induced stress and senescence-associated changes in human brain microvascular endothelial cells.**
+  Wang H, Lin B, Zhang Y et al. — Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42994721/ · DOI: 10.1016/j.fct.2026.116487
+
+- **Metformin alleviates dry eye-associated corneal epithelial senescence and oxidative stress via AMPK activation.**
+  Yang C, Shu X, Wang Q et al. — Experimental eye research, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42994719/ · DOI: 10.1016/j.exer.2026.111313
+
+- **Sorcin phase separation restrains p53 translation via stress granules to prevent hepatic stellate cell senescence in liver fibrosis.**
+  Zhang X, Yang Z, Fu C et al. — Free radical biology & medicine, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42994707/ · DOI: 10.1016/j.freeradbiomed.2026.11.012
+
+- **Age-related patterns of senescence markers immunoexpression in female human epidermis.**
+  Burgues TA, Lopes JA, Silva CMD et al. — Acta histochemica, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42994305/ · DOI: 10.1016/j.acthis.2026.152380
+
+- **Preoperative SASP burden predicts perioperative vulnerability in older patients undergoing elective cardiac surgery: a prospective cohort study.**
+  Eberl AM, Stephan T, Haggenmueller L et al. — GeroScience, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42993449/ · DOI: 10.1007/s11357-026-02626-9
+
+- **Multilayer regulation of osteogenic reprogramming in human aortic valve interstitial cells in calcific aortic valve disease.**
+  Liang C, Zhu L, Zhou M et al. — Molecular biology reports, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42993368/ · DOI: 10.1007/s11033-026-13125-7
+
+- **From folate to the epigenetic clock: one-carbon metabolism in oocyte quality and ovarian ageing.**
+  Fu X, Yang Y, Jiang L et al. — Human reproduction update, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42992622/ · DOI: 10.1093/humupd/dmag034
+
+- **Bioactive isoprenylflavonoids contribute to the dual protective effects of Xianling Gubao against sarcopenia and osteoarthritis in SAMP8 mice.**
+  Yang W, Gao B, Li J et al. — Journal of orthopaedic translation, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42990639/ · DOI: 10.1016/j.jot.2026.101252
+
+- **DNA polymerase kappa supports repair-associated DNA synthesis and genome maintenance in postmitotic neurons.**
+  Goyal G, Palanisamy P, Paul A et al. — bioRxiv : the preprint server for biology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42990123/ · DOI: 10.64898/2026.10.01.756094
+
+- **Mitochondrial Dysfunction as a Context-Dependent Driver and Amplifier of the SASP: Targeting the mtDNA-cGAS-STING Axis for Next-Generation Senotherapeutics.**
+  Hama HK, Hama MA, Zorab MM et al. — Journal of cellular and molecular medicine, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42989704/ · DOI: 10.1111/jcmm.71419
+
+- **Role of Sirtuins in the Hallmarks of Skin Aging.**
+  Kala R, Rella A, Eagle W et al. — Aging cell, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42989057/ · DOI: 10.1111/acel.70789
+
+- **Alterations in the Immune-Fibrotic Axis Are Spatially Localized in the Aging Heart.**
+  Aljakna Khan A, Sintou A, Zhao Y et al. — Aging cell, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42988783/ · DOI: 10.1111/acel.70768
+
+- **Circulating miRNAs associated with frailty in old people with cardiovascular diseases promote cellular senescence and inflammation.**
+  La Grotta R, Pellegrini V, Metallo A et al. — Experimental gerontology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42988019/ · DOI: 10.1016/j.exger.2026.113379
+
+- **Heat-inactivated Bifidobacterium adolescentis LA20 alleviates doxorubicin-induced senescence and barrier dysfunction in feline intestinal epithelial cells.**
+  Wang H, Liu T, Bai H et al. — American journal of veterinary research, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42987509/ · DOI: 10.2460/ajvr.26.08.0356
+
+- **Cellular senescence mediates facioscapulohumeral muscular dystrophy.**
+  Jung U, Wei E, Mitanoska A et al. — The Journal of clinical investigation, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42986690/ · DOI: 10.1172/JCI207716
+
+- **Resistant hypertension and accelerated vascular aging: evidence for PTEN-AKT-associated cellular senescence.**
+  Yu H, Wang X, Li K et al. — GeroScience, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42986580/ · DOI: 10.1007/s11357-026-02627-8
+
+- **Citrus lemon-derived nanovesicles induced collagen expression in UVB-induced photoaged models.**
+  Modares K, Atyabi SM, Mohamadali M et al. — Daru : journal of Faculty of Pharmacy, Tehran University of Medical Sciences, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42986385/ · DOI: 10.1007/s40199-026-00680-4
+
+- **Preparation of two new diiron(III)-gaticarboxylic acid complexes and exploration of their in vitro and in vivo cytotoxic activities.**
+  Shao TM, Qin XZ, Jiang LL et al. — Dalton transactions (Cambridge, England : 2003), 2026
+  https://pubmed.ncbi.nlm.nih.gov/42986198/ · DOI: 10.1039/d6dt01390b
+
+- **The H2S-releasing metformin hybrid Met-ITC protects against diabetes-associated vascular dysfunction preserving glycaemic control.**
+  Spezzini J, Piragine E, Flori L et al. — British journal of pharmacology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42986015/ · DOI: 10.1111/bph.70723
+
+- **The Vicious Cycle of Sleep Disruption and Inflammaging: Mechanisms, Consequences, and Therapeutic Opportunities.**
+  Zhao FY, Wang JM, Lu SY et al. — Aging cell, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42982749/ · DOI: 10.1111/acel.70798
+
+- **TWIST family in cervical cancer biology: From molecular mechanisms to clinical implications.**
+  Sayed U, Kubaev A, Polatova D et al. — Experimental cell research, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42982360/ · DOI: 10.1016/j.yexcr.2026.115215
+
+- **Cellular senescence remodels the neuro-immune-tumour niche in neuroblastoma through SASP and core signalling pathways.**
+  Zhang Z, Zhang X — Biochimica et biophysica acta. Reviews on cancer, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42982106/ · DOI: 10.1016/j.bbcan.2026.189750
+
+- **Longitudinal associations between the hallmarks of aging and body composition: a narrative review.**
+  Michel E, Briand M, Vellas B et al. — GeroScience, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42980902/ · DOI: 10.1007/s11357-026-02629-6
+
+- **Tree Shrew as an Emerging Model for Aging Research: Characterization of Senescence and Therapeutic Interventions.**
+  Luo Q, Xiao W, Dong X et al. — Aging cell, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42977716/ · DOI: 10.1111/acel.70781
+
+- **Sex-specific trajectories in the association between serum uric acid and biological age acceleration: A cross-sectional study.**
+  Li L, Yan J, Cai X et al. — Experimental gerontology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42977175/ · DOI: 10.1016/j.exger.2026.113375
+
+- **Identification of flavonoid-based hyaluronidase inhibitors through integrated virtual screening, enzymatic characterization and molecular simulations.**
+  Feng Z, Li J — Archives of biochemistry and biophysics, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42977046/ · DOI: 10.1016/j.abb.2026.111048
+
+- **Evidence for spermine oxidase (SMOX) as a regulator of skeletal muscle mass throughout the lifespan.**
+  Montenegro CF, Murach KA, Chambers TL — Ageing research reviews, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42977036/ · DOI: 10.1016/j.arr.2026.103437
+
+- **Senescent CD8 T effector memory cells are functionally impaired, enriched in aging and disease, and a barrier to immunotherapy.**
+  Turano PS, Akbulut E, Aquino NM et al. — Proceedings of the National Academy of Sciences of the United States of America, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42975943/ · DOI: 10.1073/pnas.2617906123
+
+- **Perimenopause and Menopause: Estrogen-Deficient Skin and Impaired Quality of Life-Dermal Aging a Visible Mirror Reflecting Internal Aging and Health.**
+  Lephart ED, Leverett J, Kong R et al. — Dermatology and therapy, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42975862/ · DOI: 10.1007/s13555-026-01944-2
+
+- **Blockade of the Succinate-SUCNR1 Metabolic Axis Helps Restore Mitochondrial Homeostasis and Prevents Structural Failure in Overuse-Induced Rotator Cuff Tendinopathy in a Mouse Model.**
+  Yan D, Fang D, Wang X et al. — The American journal of sports medicine, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42975033/ · DOI: 10.1177/03635465261494256
+
+- **Deep and quantitative proteomic profiling of low-volume mouse serum in a cross-sectional analysis of aging.**
+  Dey AK, Olinger B, Boroumand M et al. — Nature aging, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42972048/ · DOI: 10.1038/s43587-026-01242-8
+
+- **Menopausal Hormone Therapy and Skin Aging: A Systematic Review.**
+  Fleshner L, Burshtein J, Sayegh A et al. — Journal of the American Academy of Dermatology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42971479/ · DOI: 10.1016/j.jaad.2026.10.100
+
+- **Validation of senescence as a therapeutic target in metabolic dysfunction-associated steatohepatitis (MASH) through navitoclax delivery.**
+  Jiang Y, Li S, Liehn EA et al. — Journal of controlled release : official journal of the Controlled Release Society, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42971435/ · DOI: 10.1016/j.jconrel.2026.115504
+
+- **Host-microbiome asynchronous decoupling reveals systemic metabolic allostatic overload mediated by gut genomic potential degradation.**
+  Wang Z, Xu X, Shang S et al. — Metabolism: clinical and experimental, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42971424/ · DOI: 10.1016/j.metabol.2026.156817
+
+- **d(+)-raffinose pentahydrate induces senescence in glioblastoma cells by upregulating P21 expression.**
+  Dai ZA, Chen YY, Pei JY et al. — Chemico-biological interactions, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42971380/ · DOI: 10.1016/j.cbi.2026.112422
+
+- **A Putative IL-17A-Senescence Feed-Forward Loop in Aging Skin.**
+  Lee DH, Yamaguchi Y — Experimental dermatology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42971261/ · DOI: 10.1111/exd.70384
+
+- **Low-cost and scalable synthesis of α-poly(L-glutamic acid) for superficial skin wound repair.**
+  Jing X, Wang L, Wang S et al. — Biomaterials science, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42970441/ · DOI: 10.1039/d6bm01136e
+
+- **Age: a modifiable risk factor for cardiovascular disease?**
+  Kafka A, Becker L, Hauner H et al. — Herz, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42970081/ · DOI: 10.1007/s00059-026-05398-2

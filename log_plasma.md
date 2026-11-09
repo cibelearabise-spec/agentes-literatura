@@ -64,3 +64,17 @@ Nenhum preprint novo desde a última execução.
   Mario Damiano, Rhonda Morgan, Michael Turmon et al. — arXiv, 2026-10-26
   https://arxiv.org/abs/2610.36200v2
   _We assess how propulsion and operational constraints affect exo-Earth characterization with a starshade rendezvous mission for a Habitable Worlds Observatory (HWO)-like telescope at Sun-Earth L2. Using end-to-end Monte Carlo simulations with EXOSIMS, we model a 60 m starshade for…_
+
+## Rodada — 2026-11-09 19:37
+
+2 preprint(s) novo(s):
+
+- **A Two-Dimensional Physics-Informed Neural Network Model of a Hall Effect Thruster Plasma: Self-Consistent Electrostatics and Physical-Consistency Diagnostics**
+  Josh Adjedj, Subrata Roy — arXiv, 2026-11-03
+  https://arxiv.org/abs/2611.04194v1
+  _We present a two-dimensional axisymmetric physics-informed neural network (PINN) of the discharge channel of the P5 Hall thruster at 300 V and 5.4 A, which solves eleven coupled plasma fields and assimilates 145 internal probe measurements per field reconstructed from the data of…_
+
+- **Direct Analysis in Real Time Mass Spectrometry (DART-MS) Study of Amino Acids in the Vacuum Stable Liquids EMI-BF$_4$, EMI-Acetate, DEMA-OTf, DEMA-MsO, and Glycerol**
+  Zach Ulibarri, Samantha E. Adamski, Amy E. Hofmann et al. — arXiv, 2026-11-02
+  https://arxiv.org/abs/2611.03990v1
+  _The detection of organics and potential biomolecules is an important goal of planetary science and astrobiology spacecraft missions, and many types of analytical chemistry for studying organics depend upon liquid solvents as working fluids. However, most liquids are difficult to …_

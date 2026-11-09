@@ -174,3 +174,15 @@ Nenhum artigo novo desde a última execução.
 ## Rodada — 2026-11-02 19:17
 
 Nenhum artigo novo desde a última execução.
+
+## Rodada — 2026-11-09 19:36
+
+2 artigo(s) novo(s):
+
+- **Improving the predictability of rotational correction with clear aligners: Evidence gaps, biomechanical principles, and clinical strategies.**
+  Kulkarni P, Batra P, Vaiid N — Journal of oral biology and craniofacial research, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42999713/ · DOI: 10.1016/j.jobcr.2026.101567
+
+- **Assessment of sequential distalization with aligners using cone-beam computed tomography merged with intraoral scans.**
+  Lee S, Minamidate T, Watabe H et al. — American journal of orthodontics and dentofacial orthopedics : official publication of the American Association of Orthodontists, its constituent societies, and the American Board of Orthodontics, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42980631/ · DOI: 10.1016/j.ajodo.2026.08.016

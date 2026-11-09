@@ -158,3 +158,7 @@ Nenhum artigo novo desde a última execução.
 - **A Case of the Blues: Pseudochromhidrosis in an Adolescent Following Injury.**
   Kesselman AL — Journal of pediatric health care : official publication of National Association of Pediatric Nurse Associates & Practitioners, 2026
   https://pubmed.ncbi.nlm.nih.gov/42501027/ · DOI: 10.1016/j.pedhc.2026.06.012
+
+## Rodada — 2026-11-09 19:36
+
+Nenhum artigo novo desde a última execução.
