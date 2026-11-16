@@ -78,3 +78,22 @@ Nenhum preprint novo desde a última execução.
   Zach Ulibarri, Samantha E. Adamski, Amy E. Hofmann et al. — arXiv, 2026-11-02
   https://arxiv.org/abs/2611.03990v1
   _The detection of organics and potential biomolecules is an important goal of planetary science and astrobiology spacecraft missions, and many types of analytical chemistry for studying organics depend upon liquid solvents as working fluids. However, most liquids are difficult to …_
+
+## Rodada — 2026-11-16 19:23
+
+3 preprint(s) novo(s):
+
+- **Reinforcement Learning for Null-Space Exploitation in Pseudo-Inverse Control Allocation**
+  Umut Demir, Torbjørn Cunis, Aamir Ahmad et al. — arXiv, 2026-11-13
+  https://arxiv.org/abs/2611.18364v1
+  _Pseudo-inverse methods are widely used to solve control allocation problems for overactuated aircraft with redundant control effectors. These methods reliably satisfy the primary command tracking objective, while the remaining null-space degrees of freedom are in principle availa…_
+
+- **Controllability-Informed Distributed Electric Propulsion Aircraft Design Using Probabilistic Attainable Moment Sets**
+  Umut Demir, Torbjørn Cunis, Aamir Ahmad et al. — arXiv, 2026-11-13
+  https://arxiv.org/abs/2611.18094v1
+  _Integrated aircraft design combines models of aerodynamics, propulsion, mass, and mission performance in one design loop, so that the disciplines can be traded against each other from the earliest stage. For configurations with distributed electric propulsion (DEP), part of the c…_
+
+- **Electric Propulsion Database Development and Integrated Modelling Analysis**
+  Talha Baig, Dr Kate Smith, Dr Nicholas Crisp — arXiv, 2026-11-09
+  https://arxiv.org/abs/2611.13121v1
+  _Electric propulsion (EP) systems require significant subsystem integration and data driven mod- elling for accurate sizing. This paper is an overview of a high-fidelity database development and analysis aiming to fill the gap in electric propulsion sizing. This is a preliminary s…_

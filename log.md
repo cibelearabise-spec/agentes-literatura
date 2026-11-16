@@ -186,3 +186,15 @@ Nenhum artigo novo desde a última execução.
 - **Assessment of sequential distalization with aligners using cone-beam computed tomography merged with intraoral scans.**
   Lee S, Minamidate T, Watabe H et al. — American journal of orthodontics and dentofacial orthopedics : official publication of the American Association of Orthodontists, its constituent societies, and the American Board of Orthodontics, 2026
   https://pubmed.ncbi.nlm.nih.gov/42980631/ · DOI: 10.1016/j.ajodo.2026.08.016
+
+## Rodada — 2026-11-16 19:23
+
+2 artigo(s) novo(s):
+
+- **Time-dependent changes in gingival crevicular fluid volume during orthodontic tooth movement with clear aligners and fixed appliances.**
+  Tosun Balci I, Nalbantoglu AM, Albayrak E et al. — Clinical oral investigations, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43033322/ · DOI: 10.1007/s00784-026-07261-4
+
+- **Interceptive Management of Ectopically Erupting Maxillary Canines With Rapid Maxillary Expansion and Clear Aligners: A Case Report.**
+  Lorusso M, Illuzzi G, Tepedino M et al. — Case reports in dentistry, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43011376/ · DOI: 10.1155/crid/3778979

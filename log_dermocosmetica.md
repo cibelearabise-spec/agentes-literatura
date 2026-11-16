@@ -162,3 +162,11 @@ Nenhum artigo novo desde a última execução.
 ## Rodada — 2026-11-09 19:36
 
 Nenhum artigo novo desde a última execução.
+
+## Rodada — 2026-11-16 19:23
+
+1 artigo(s) novo(s):
+
+- **Targeting the Skin Microbiome in Dermatology: Translational Hype or Emerging Therapeutic Modality?**
+  Syed RA, Ahmed A, Hayat U et al. — FASEB journal : official publication of the Federation of American Societies for Experimental Biology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/42990048/ · DOI: 10.1096/fj.202602650RR
