@@ -198,3 +198,7 @@ Nenhum artigo novo desde a última execução.
 - **Interceptive Management of Ectopically Erupting Maxillary Canines With Rapid Maxillary Expansion and Clear Aligners: A Case Report.**
   Lorusso M, Illuzzi G, Tepedino M et al. — Case reports in dentistry, 2026
   https://pubmed.ncbi.nlm.nih.gov/43011376/ · DOI: 10.1155/crid/3778979
+
+## Rodada — 2026-11-23 20:57
+
+Nenhum artigo novo desde a última execução.

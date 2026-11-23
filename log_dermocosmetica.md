@@ -170,3 +170,11 @@ Nenhum artigo novo desde a última execução.
 - **Targeting the Skin Microbiome in Dermatology: Translational Hype or Emerging Therapeutic Modality?**
   Syed RA, Ahmed A, Hayat U et al. — FASEB journal : official publication of the Federation of American Societies for Experimental Biology, 2026
   https://pubmed.ncbi.nlm.nih.gov/42990048/ · DOI: 10.1096/fj.202602650RR
+
+## Rodada — 2026-11-23 20:58
+
+1 artigo(s) novo(s):
+
+- **Bidirectional Interplay Between the Skin Microbiota and the Host: An EAACI Task Force Report.**
+  Callewaert C, Spacova I, Minnebo Y et al. — Allergy, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43049533/ · DOI: 10.1111/all.70564

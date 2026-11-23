@@ -2370,3 +2370,191 @@ Nenhum artigo novo desde a última execução.
 - **Targeted discovery of anti-skin aging peptides from Camelus bactrianus placenta: Multi-activity screening, network pharmacology, and in vitro validation focusing on MMP-1 inhibition.**
   Tian L, Ma Q, Wu Y et al. — Journal of ethnopharmacology, 2026
   https://pubmed.ncbi.nlm.nih.gov/42302941/ · DOI: 10.1016/j.jep.2026.122064
+
+## Rodada — 2026-11-23 20:58
+
+46 artigo(s) novo(s):
+
+- **Food-derived α-humulene enhances NAMPT-dependent NAD+ biosynthesis to suppress oxidative stress-induced senescence in human dermal fibroblasts.**
+  Katayoshi T, Ueno H, Kamei Y et al. — Free radical research, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43070626/ · DOI: 10.1080/10715762.2026.2769195
+
+- **A Single-Cell Aging Phenotypic Index From Nanosensor Chemical Cytometry Associated With Therapeutic Potency.**
+  Song Y, Hyun J, An J et al. — Advanced science (Weinheim, Baden-Wurttemberg, Germany), 2026
+  https://pubmed.ncbi.nlm.nih.gov/43068896/ · DOI: 10.1002/advs.78850
+
+- **DNA barcoding and cellular senescence in atherosclerosis: Vascular smooth muscle cell lineage tracing and potential for future Senotherapeutics.**
+  Pandey AC, Tsakiris E — Vascular pharmacology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43068791/ · DOI: 10.1016/j.vph.2026.107723
+
+- **The Neurocognitive Basis of Healthy Longevity: An Integrative Review of Brain Aging and Longevity Mechanisms.**
+  de Garrido Talavera L — Ageing research reviews, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43068747/ · DOI: 10.1016/j.arr.2026.103452
+
+- **Exercise-Derived Skeletal Muscle Exosomes Ameliorate Intervertebral Disc Degeneration and Restore Mitochondrial Homeostasis in Nucleus Pulposus Cells.**
+  Ma X, Dai C, Wang C et al. — International journal of nanomedicine, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43068295/ · DOI: 10.2147/IJN.S628903
+
+- **Primary sclerosing cholangitis: epidemiology, risk factors, pathophysiology, clinical features, diagnosis, and management.**
+  Song J, Wang B, Yang T et al. — Molecular biomedicine, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43067616/ · DOI: 10.1186/s43556-026-00662-7
+
+- **Cellular Senescence as a Multiorgan Driver of Diabetes-Associated Cardiovascular and Kidney Disease.**
+  Zhang H, Feng J, Zhu D et al. — Ageing research reviews, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43067532/ · DOI: 10.1016/j.arr.2026.103447
+
+- **Bilobetin Restores a TFRC-ACSL4 Ferro-Aging Barrier to Restrain Nickel-Refining Fume-Induced Bronchial Epithelial Transformation.**
+  Zhang B, Wu R, Liu W et al. — Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43067498/ · DOI: 10.1016/j.fct.2026.116504
+
+- **Mechanisms and Implications of SARS-CoV-2 Infection in Hematopoietic System.**
+  Wang P, Wang J, Zhang R et al. — Stem cell reviews and reports, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43066896/ · DOI: 10.1007/s12015-026-11255-w
+
+- **Lactate-Lactylation Signaling at the Macrophage-Disc Cell Interface: Immunometabolic Mechanisms and Therapeutic Opportunities in Intervertebral Disc Degeneration.**
+  Li H, Zheng J, Peng B et al. — Stem cell reviews and reports, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43066882/ · DOI: 10.1007/s12015-026-11246-x
+
+- **Systematic review of artificial intelligence for ocular imaging-based ageing measures: evidence, challenges, and clinical potential.**
+  Pushpanathan K, Yang GD, Kim MK et al. — Asia-Pacific journal of ophthalmology (Philadelphia, Pa.), 2026
+  https://pubmed.ncbi.nlm.nih.gov/43064073/ · DOI: 10.1016/j.apjo.2026.100391
+
+- **Injectable polynucleotides in aesthetic dermatology: Clinical applications, skin rejuvenation, efficacy, and safety-A literature review.**
+  Sánchez-Díaz M, Muñoz-Barba D, Del Río Reyes R — Actas dermo-sifiliograficas, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43064019/ · DOI: 10.1016/j.ad.2026.104774
+
+- **Endometriosis, a high-risk obstetric condition: pathophysiology of the maternal-placenta axis.**
+  Andrieu J, Commerçon M, Donato X et al. — Placenta, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43063770/ · DOI: 10.1016/j.placenta.2026.11.015
+
+- **Dual-layer regulation of macrophage grancalcin links diabetic redox-metabolic imbalance to impaired vascularized bone regeneration.**
+  Jin S, Song Z, Fang L et al. — Redox biology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43063696/ · DOI: 10.1016/j.redox.2026.104490
+
+- **Fibroblast N-glycan expression profile as potential novel biomarker for aging skin.**
+  Ng BH, Laserna AKC, Nguyen H et al. — Aging, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43063322/ · DOI: 10.18632/aging.206428
+
+- **Hyperuricemia and systemic inflammation synergistically associated with irreversible β-cell bioenergetic collapse and clinical infection vulnerability.**
+  Su FY, Hsu YH, Wu YJ et al. — Inflammation research : official journal of the European Histamine Research Society ... [et al.], 2026
+  https://pubmed.ncbi.nlm.nih.gov/43062465/ · DOI: 10.1007/s00011-026-02396-2
+
+- **A Multimodal Hyaluronic Acid Approach to Compensate Menopause-Related Skin Changes: Hyaluronic Acid Serum Subanalysis With HA Filler Injection.**
+  Bravo BSF, Braz AV, Coimbra D et al. — Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.], 2026
+  https://pubmed.ncbi.nlm.nih.gov/43062206/ · DOI: 10.1097/DSS.0000000000005468
+
+- **Hormonal Milieu-Dependent Cervicovaginal and Mammary Gland Effects of a Long-Acting Relaxin Agonist in Female Rats: A Nonclinical Evaluation Across Investigative Studies.**
+  Bhaskaran M, Vidal JD, Abernathy MM et al. — Toxicologic pathology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43059307/ · DOI: 10.1177/01926233261495558
+
+- **Established replicative senescence alters cellular homeostasis and reduces susceptibility to uremic toxin-induced cytotoxicity in renal tubular epithelial cells.**
+  Liu CY, Tsai LT, Sheu ML et al. — Chemico-biological interactions, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43057666/ · DOI: 10.1016/j.cbi.2026.112436
+
+- **Targeting microglial senescence in brain ageing and Alzheimer's disease: Mechanistic evidence and the therapeutic potential of natural products.**
+  Alok S — Ageing research reviews, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43057397/ · DOI: 10.1016/j.arr.2026.103449
+
+- **Microenvironment induces differential reprogramming in breast cancer cell lines through TGF-β and estrogen receptor.**
+  El-Gammal Z, Ghoneim NI, Mohamed RH et al. — Molecular biology reports, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43055969/ · DOI: 10.1007/s11033-026-13016-x
+
+- **Targeting SIRT6 to regulate mitophagy: A novel strategy to combat senescence in osteoarthritic chondrocytes.**
+  Song C, Yang L, Wu X et al. — Immunologic research, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43055846/ · DOI: 10.1007/s12026-026-09882-z
+
+- **The senescent tumor microenvironment: Roles in glioblastoma progression.**
+  Zhang Y, Li Y, Wang Y et al. — Biochimica et biophysica acta. Reviews on cancer, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43051604/ · DOI: 10.1016/j.bbcan.2026.189753
+
+- **Phenolic Phytonutrients and Brain Mitochondrial Function in Aging: From Flavonoids to Phenolic Monoterpenoids.**
+  Kessas K, Hadj Slimane T, Hallal N et al. — Biochimie, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43051446/ · DOI: 10.1016/j.biochi.2026.11.006
+
+- **Quercetin alleviates TMT-induced skeletal muscle atrophy by regulating the p-AMPK-PINK1 signaling pathway.**
+  Wang X, Dong Y, Lei Y et al. — Free radical biology & medicine, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43051427/ · DOI: 10.1016/j.freeradbiomed.2026.11.036
+
+- **Technology-Enabled Skin Longevity Optimization.**
+  Vyas K, Ansaf RB, Mardini S et al. — Facial plastic surgery : FPS, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43051260/ · DOI: 10.1055/a-3005-2229
+
+- **Androgen deprivation drives prostate cancer cells into a glycolysis-coupled senescence-like state.**
+  Yang J, Xu J, Yuan G et al. — Translational oncology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43050942/ · DOI: 10.1016/j.tranon.2026.103120
+
+- **Immunosenescence in Metabolic Disorders: From Cellular Mechanisms to Therapeutic Strategies.**
+  Guo D, Chen Q, Cai H et al. — Current obesity reports, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43050059/ · DOI: 10.1007/s13679-026-00778-5
+
+- **Biological Aging Associates With Preeclampsia and Gestational Hypertension.**
+  Li X, Mo Y, Lin Y et al. — Hypertension (Dallas, Tex. : 1979), 2026
+  https://pubmed.ncbi.nlm.nih.gov/43046966/ · DOI: 10.1161/HYPERTENSIONAHA.126.28011
+
+- **Failed-repair proximal tubular epithelial cells in the transition from acute kidney injury to chronic kidney disease: mechanisms, identification, and therapeutic implications.**
+  Liu X, Zhao X, Bao C et al. — Renal failure, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43046616/ · DOI: 10.1080/0886022X.2026.2760010
+
+- **DNAzyme Walkers Empowered Self-Priming Isothermal Amplification for Label-Free and Sensitive Detection of Interleukin-6 in Senescence Cell Models.**
+  Wang XY, Liu MH, Jiang S et al. — Analytical chemistry, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43046487/ · DOI: 10.1021/acs.analchem.6c06703
+
+- **SP6 scaffolds DNA-PKcs and recruits PP2A to license DNA damage repair in human multipotent trophoblasts.**
+  Tang Y, Gu C, Lv Y et al. — Communications biology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43045773/ · DOI: 10.1038/s42003-026-10700-3
+
+- **Myelin repair in neuromyelitis optica spectrum disorders: Mechanisms and interventions.**
+  Yan Y, Yuan Z, Liu MW et al. — Neural regeneration research, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43045660/ · DOI: 10.4103/NRR.NRRONLINE-D-26-00887
+
+- **Natural product-derived compounds as modulators of the Klotho family: Molecular mechanisms and evidence across aging-related and disease models.**
+  Joukar S, Rostamzadeh F, Soltani Z et al. — Experimental gerontology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43044895/ · DOI: 10.1016/j.exger.2026.113387
+
+- **A HERV transcriptional signature of cellular aging persists after iPSC reprogramming.**
+  Xu CZ, Cui J — Virologica Sinica, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43044829/ · DOI: 10.1016/j.virs.2026.11.009
+
+- **Aging Skin as a Contributor to Sexual Dysfunction.**
+  Fleshner L, Advani S, Klufas T et al. — Clinics in dermatology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43044792/ · DOI: 10.1016/j.clindermatol.2026.11.014
+
+- **Inflammation at the crossroads of UV radiation and pollution: The molecular synergy behind accelerated skin aging.**
+  Nasrallah A, El Mir J, Fayyad-Kazan M et al. — Toxicology letters, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43044695/ · DOI: 10.1016/j.toxlet.2026.113234
+
+- **Microbial Genotoxins and Oncometabolites as Potential Codrivers of Hepatocarcinogenesis.**
+  Li S, Wei W, Xue E et al. — Seminars in liver disease, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43044662/ · DOI: 10.1055/a-2999-1520
+
+- **Low-Intensity Resistance Training Improves Irisin-Associated Endothelial Function in Aging.**
+  Yasunaga S, Fujie S, Ito R et al. — Medicine and science in sports and exercise, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43044051/ · DOI: 10.1249/MSS.0000000000004205
+
+- **Investigation of Korean women's facial skin microbiome and the effects of aging.**
+  Kim D, Oh Y, Kim J et al. — Genes & genomics, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43043618/ · DOI: 10.1007/s13258-026-01818-z
+
+- **Pharmacological targeting of ageing hallmarks: molecular mechanism and clinical translation.**
+  Su L, Li H, Yan X — Archives of physiology and biochemistry, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43042699/ · DOI: 10.1080/13813455.2026.2761518
+
+- **Fisetin attenuates TBHP-induced senescence-associated phenotypes in human gingival fibroblasts and is associated with reduced p53/p21 expression.**
+  Chen M, Sun J, Chen K — Natural product research, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43042668/ · DOI: 10.1080/14786419.2026.2764767
+
+- **Cellular Senescence at the Blood-Brain Barrier: a Potential Driver of Vulnerability and Poor Recovery in Ischaemic Stroke.**
+  Kadir RRA, Ya J, Bayraktutan U — Molecular neurobiology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43040153/ · DOI: 10.1007/s12035-026-06330-9
+
+- **Cancer- and treatment-related accelerated biological ageing and cognitive frailty in older adults: Mechanisms and clinical implications.**
+  Su L, Liu Q, Qiu L et al. — Ageing research reviews, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43039084/ · DOI: 10.1016/j.arr.2026.103446
+
+- **Cutaneous Manifestations of the Menopausal Transition - Part 2: Hormonal Frameworks and Management of Skin and Hair Concerns.**
+  Li Y, Dave R, Kim U et al. — Journal of the American Academy of Dermatology, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43039041/ · DOI: 10.1016/j.jaad.2026.11.027
+
+- **Single-Cell Profiling Reveals an Aging-Enriched TLF⁺CD209hi Resident Macrophage State and Candidate Profibrotic Macrophage-Fibroblast Interactions in the Aging Heart.**
+  Quan Y, Ma X, Ren L et al. — Aging and disease, 2026
+  https://pubmed.ncbi.nlm.nih.gov/43038563/ · DOI: 10.14336/AD.2026.1022

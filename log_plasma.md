@@ -97,3 +97,7 @@ Nenhum preprint novo desde a última execução.
   Talha Baig, Dr Kate Smith, Dr Nicholas Crisp — arXiv, 2026-11-09
   https://arxiv.org/abs/2611.13121v1
   _Electric propulsion (EP) systems require significant subsystem integration and data driven mod- elling for accurate sizing. This paper is an overview of a high-fidelity database development and analysis aiming to fill the gap in electric propulsion sizing. This is a preliminary s…_
+
+## Rodada — 2026-11-23 20:58
+
+Nenhum preprint novo desde a última execução.
